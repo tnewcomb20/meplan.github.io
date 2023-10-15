@@ -43,7 +43,8 @@ story (i.e. no context was given)
 
 ## Related products:
 
-![image](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/8c55ed46-d46a-4a69-9ba4-f29b1221d009) 
+![image](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/8c55ed46-d46a-4a69-9ba4-f29b1221d009) ![image](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/25ed5f49-b0f3-4837-a0f9-d77aaf6aa3ef)
+
 
 Notion workspace: Current form is very uniform and generic with every part looking near identical and taking up the same amount of visual space. We could improve on this by tailoring it more to students specifically and allowing for more important items to be visually distinct, such as with tests or projects being larger or a different color, etc.
 
