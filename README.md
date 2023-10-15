@@ -1,7 +1,4 @@
 
-# CS-299 Group 8 : MEPLAN
-
-
 # Project Pitch or Proposal (Deliverable #1)
 
 ## Background: 
