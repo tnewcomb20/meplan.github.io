@@ -2,26 +2,68 @@
 # CS-299 Group 8 : MEPLAN
 ## Project Pitch or Proposal (Deliverable #1)
 
-Background:
+## Background: 
 Keeping track of daily tasks can be difficult for students, we intend to create a website to help students keep track of their daily activities such as homework, deadlines, grades, clubs, and ect.
 
-A description of our intended user population
+## Observations:
+• complete and clear descriptions of users' behavior
+Students 
+These observations highlight several pain points experienced by students when it comes to organizing their daily activities, including the use of various tools, difficulty in prioritization, and adapting to changes in their schedules. These insights will be valuable when designing a website that addresses these issues and provides a user-friendly solution for students to manage their tasks, deadlines, grades, club activities, and more efficiently
+Problem:
+• good description of problem related to observations
 
-Aim for students
+### Personas:
 
-Why we think that we could develop a prototype solution with a relatively modest amount of implementation effort
+User 1: Emma (College Student)
 
-We don’t aim to recreate a full-fledged planner web app; that would indeed entail too many features and take too long. We do intend to make a basic one, however, with a few key features which address our problem.
+1. Morning Routine Observation: Sarah wakes up and checks her phone for notifications. She scrolls through multiple apps to find information about her daily tasks.
+2. Task Prioritization: She writes down her homework assignments in a notebook but struggles to prioritize them. She spends a considerable amount of time figuring out which tasks are more urgent.
+3.Club Activities: In the evening, she rushes to her extracurricular club meetings. She often forgets the meeting time and sometimes misses them.
 
-a brief overview of any existing solution (if there are) and aspects we are improving upon.
+User 2: John (College Student)
+
+1.Digital Tools: John primarily relies on digital tools. He uses a combination of a calendar app, a task management app, and a note-taking app to organize his tasks.
+2. Deadline Tracking: He often forgets upcoming deadlines and has to check multiple apps to ensure he hasn't missed any assignments.
+3. Grade Monitoring: John spends a lot of time calculating his grades and planning how to improve them. He manually enters grade information into spreadsheets.
+
+User 3: Maria (Graduate Student)
+
+1. Complex Schedule: Maria's schedule is very complex. She juggles coursework, part-time work, research projects, and social activities. She uses a physical planner to keep track of everything.
+
+2. Deadline Pressure: She frequently feels overwhelmed as she balances various responsibilities. Her planner helps her see overlapping deadlines.
+3.Adapting to Changes: Maria often has last-minute changes to her schedule due to research experiments or work meetings. She struggles to update her planner effectively.
+
+## Use-case:
+
+does not identify persona
+does not address how the system solves the persona's
+needs
+use-case bears more semblance to a user manual than a
+story (i.e. no context was given)
+
+## Related products:
 
 Notion workspace: Current form is very uniform and generic with every part looking near identical and taking up the same amount of visual space. We could improve on this by tailoring it more to students specifically and allowing for more important items to be visually distinct, such as with tests or projects being larger or a different color, etc.
 
-a summary of the software, hardware, and other skills that we expect to need in team members to accomplish the project
 
-Ability to create a usable website and connect it to a database to store and use information about different assignments / projects and display it in a visually useful manner for users to interact with.
+## Product comparison:
 
-## Deliverable #2: Low fidelity prototype 3
+only identified why proposed system was technically
+more simple
+did not identify why product is a better fit for personas
+described earlier
+High-level design:
+diagram is reasonably clear but lacks detail about
+functionality of application
+paragraph description was necessary for me to
+understand
+specific technologies need not be identified (e.g. Parse
+Core, Android)
+Feasibility:
+Ability to create a usable website and connect it to a database to store and use information about different assignments 
+ projects and display it in a visually useful manner for users to interact with
+
+### Deliverable #2: Low fidelity prototype 3
 
 **Usability Goals:**
 
