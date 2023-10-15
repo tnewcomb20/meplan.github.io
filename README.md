@@ -102,4 +102,5 @@ These usability goals and benchmark tasks will help evaluate the planner/tracker
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![![image](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/3212140d-08bd-436a-a5e0-5a48e24cc913)
+](src)
