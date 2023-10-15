@@ -90,7 +90,8 @@ Sure, here's an outline for usability goals and benchmark tasks for a planner/tr
 
 These usability goals and benchmark tasks will help evaluate the planner/tracker website's user-friendliness and functionality, ensuring it meets the needs of its target user population effectively.
 
-
+![alt text](http://url/to/![Mockup_Design](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/a0d7b8e7-3cf8-4871-ab5c-b8fd4394adaf)
+)
 
 
 
@@ -102,5 +103,3 @@ These usability goals and benchmark tasks will help evaluate the planner/tracker
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![![image](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/3212140d-08bd-436a-a5e0-5a48e24cc913)
-](src)
