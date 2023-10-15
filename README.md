@@ -1,7 +1,10 @@
 # CS-299 Group 8 : MEPLAN
 
 ### Background: 
-Keeping track of daily tasks can be difficult for students, we intend to create a website to help students keep track of their daily activities such as homework, deadlines, grades, clubs, and ect.
+
+ Students often find it challenging to keep up with daily tasks, including homework, project deadlines, extracurricular, club meetings, and grades. The struggle to balance all these responsibilities can result in stress, missed deadlines,and etc. 
+ 
+ Our team is committed to building "Meplan," a user-friendly website, to address this issue. Our goal with Meplan is to make students' lives easier by helping them manage their responsibilities more effectively.
 
 ## Project Pitch or Proposal (Deliverable #1)
 
