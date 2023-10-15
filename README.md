@@ -88,8 +88,7 @@ Ability to create a usable website and connect it to a database to store and use
 
 These usability goals and benchmark tasks will help evaluate the planner/tracker website's user-friendliness and functionality, ensuring it meets the needs of its target user population effectively.
 
-
-/assets/images/me plan mock up #2.png
+![Alt text](URL "me plan mock up #2.png")
 
 
 
