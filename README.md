@@ -71,6 +71,8 @@ Ability to create a usable website and connect it to a database to store and use
 
 # Deliverable #2: Low fidelity prototype 3
 
+![me plan mock up #2](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/7f7d4ee7-4285-4349-a534-9999863c1310)
+
 ## Usability Goals:
 
 1. The system should be easy for students to learn and navigate, minimizing the learning curve.
@@ -136,16 +138,8 @@ Ability to create a usable website and connect it to a database to store and use
 
 These usability goals and benchmark tasks will help evaluate the planner/tracker website's user-friendliness and functionality, ensuring it meets the needs of its target user population effectively.
 
-![me plan mock up #2](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/7f7d4ee7-4285-4349-a534-9999863c1310)
 
 
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
