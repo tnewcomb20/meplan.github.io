@@ -21,7 +21,7 @@ a summary of the software, hardware, and other skills that we expect to need in 
 
 Ability to create a usable website and connect it to a database to store and use information about different assignments / projects and display it in a visually useful manner for users to interact with.
 
-### Deliverable #2: Low fidelity prototype 3
+## Deliverable #2: Low fidelity prototype 3
 
 **Usability Goals:**
 
