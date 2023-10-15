@@ -23,8 +23,6 @@ Ability to create a usable website and connect it to a database to store and use
 
 ### Deliverable #2: Low fidelity prototype 3
 
-Sure, here's an outline for usability goals and benchmark tasks for a planner/tracker website designed for students to track their assignments:
-
 **Usability Goals:**
 
 1. **Ease of Use**: The system should be easy for students to learn and navigate, minimizing the learning curve.
