@@ -1,5 +1,5 @@
 
-# Header 1
+# CS-299 Group 8 : MEPLAN
 ## Header 2
 ### Header 3
 
