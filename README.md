@@ -1,10 +1,9 @@
 # CS-299 Group 8 : MEPLAN
 
-##Project Pitch or Proposal (Deliverable #1)
-
-## Background: 
-
+### Background: 
 Keeping track of daily tasks can be difficult for students, we intend to create a website to help students keep track of their daily activities such as homework, deadlines, grades, clubs, and ect.
+
+## Project Pitch or Proposal (Deliverable #1)
 
 ## Observations:
 • complete and clear descriptions of users' behavior
