@@ -87,7 +87,7 @@ Core, Android)
  projects and display it in a visually useful manner for users to interact with
 
  
-# (Deliverable #2)
+# Deliverable #2: Low fidelity prototype
 
 ## Design Concepts:
 
