@@ -57,6 +57,19 @@ By using "Meplan," Sarah can streamline her daily tasks, receive timely reminder
 
 ### Solutions:
 
+**Automated Deadline Tracking:**
+   - "Meplan" can automatically sync with John's assignment due dates and deadlines.
+     
+   - The application can send him timely notifications and reminders for upcoming tasks and assignments, eliminating the risk of forgetting important deadlines.
+
+**Grade Monitoring and Calculation:**
+
+   - "Meplan" can include a grade tracking feature where John can input his course grades.
+    
+   - The app can calculate his GPA and display it. This feature would save John time and effort in manually calculating and tracking his grades in spreadsheets.
+
+By integrating John's preferred digital tools, automating deadline tracking, and providing a GPA calculation feature, "Meplan" can offer him a more efficient and streamlined way to manage his academic responsibilities and improve his overall organization.
+
 ![pexels-andrea-piacquadio-3762800](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/e9aa8982-06b5-462f-adef-7718e90717e9)
 
 ### User 3: Maria (Graduate Student)
