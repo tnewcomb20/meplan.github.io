@@ -25,7 +25,7 @@ By addressing these potential problems with appropriate solutions, "Meplan" can 
    - **Solution:** Enable drag-and-drop functionality in the calendar, offer an "adjust schedule" option, and provide clear visual cues for rescheduled tasks.
 
 
-## Personas:
+## Personas and Use case scenario:
 
 ![pexels-shvets-production-9052189](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/d3324710-c65c-4433-98cc-97f2a1da73eb)
 
@@ -111,9 +111,6 @@ Maria can set alerts to keep her on track and minimize feelings of overwhelm.
 Collaboration and Sharing:
 
 By adopting "Meplan," Maria can transition to a digital schedule management system that offers real-time updates, visual deadline tracking, and improved adaptability to last-minute changes. This shift can significantly reduce feelings of overwhelm and improve her overall time management.
-
-## Use-case:
-
 
 
 ## Related products:
