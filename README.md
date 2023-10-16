@@ -82,7 +82,7 @@ By integrating John's preferred digital tools, automating deadline tracking, and
 
 ### Solutions:
 
-** Deadline Visualization:**
+**Deadline Visualization:**
 
 "Meplan" offers a visual calendar that displays all of Maria's tasks, projects, and commitments.
 Overlapping deadlines are highlighted, helping her identify busy periods and plan effectively.
