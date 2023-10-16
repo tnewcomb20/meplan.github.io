@@ -98,6 +98,37 @@ Core, Android)
 
 ![me plan mock up #2](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/7f7d4ee7-4285-4349-a534-9999863c1310)
 
+Task Management Prototype:
+
+Objective: Assess the task management interface.
+Key Features: Adding, editing, and deleting tasks; setting priorities and due dates.
+Variations: Explore different layouts for task lists and icon styles for priorities.
+
+ Calendar Integration Prototype:
+
+Objective: Evaluate the calendar view and task/event representation.
+Variations: Test different calendar layouts and methods for displaying task/event details.
+
+
+Grade Tracking Prototype:
+
+Objective: Evaluate the ease of grade input and GPA calculation.
+Key Features: Inputting grades, viewing calculated GPA, and tracking academic performance.
+Variations: Test different GPA calculation methods and data input layouts.
+
+Notifications and Reminders Prototype:
+
+Objective: Test the effectiveness of the notification and reminder system.
+Key Features: Receiving and managing notifications, marking tasks/events as complete.
+Variations: Experiment with notification styles and organization.
+
+Customization and Personalization Prototype:
+
+Objective: Test user customization options and preferences.
+Key Features: Theme selection, layout customization, and personalized preferences.
+Variations: Compare different customization layouts and options.
+
+
 
 ## Usability Goals and Benchmark Tasks:
 
