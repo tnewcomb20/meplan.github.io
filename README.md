@@ -90,8 +90,7 @@ Core, Android)
 # Deliverable #2: Low fidelity prototype
 
 ## Design Concepts:
-
-![IMG_0393](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/509030cd-06bd-44a8-bd1c-d23e9f5b4d3e=60x60)
+![IMG_0393](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/509030cd-06bd-44a8-bd1c-d23e9f5b4d3e)
 ![IMG_0397](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/150d6e5e-86f1-4dad-9df3-40f6d61b1a70)
 ![New Wireframe 1](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/c8b68cb3-bb9c-43be-85c1-7db534ebb130)
 ![me plan mock up #2](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/7f7d4ee7-4285-4349-a534-9999863c1310)
