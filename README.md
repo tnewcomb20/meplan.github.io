@@ -1,12 +1,12 @@
 # CS-299 Group 8 : MEPLAN
 
+## Project Pitch or Proposal (Deliverable #1)
+
 ### Background: 
 
  Students often find it challenging to keep up with daily tasks, including homework, project deadlines, extracurricular, club meetings, and grades. The struggle to balance all these responsibilities can result in stress, missed deadlines, and etc. 
  
  Our team is committed to building "Meplan" a user-friendly website to address this issue. Our goal with Meplan is to make students' lives easier by helping them manage their responsibilities more effectively.
-
-## Project Pitch or Proposal (Deliverable #1)
 
 ## Observations:
 
