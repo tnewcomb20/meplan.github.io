@@ -188,6 +188,8 @@ Notion workspace: Current form is very uniform and generic with every part looki
 
 ## Usability Goals and Benchmark Tasks:
 
+***
+
 ### Usability Goals:
 
 • **Learnability and Navigation:**
