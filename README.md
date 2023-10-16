@@ -90,7 +90,14 @@ Core, Android)
 
 ![me plan mock up #2](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/7f7d4ee7-4285-4349-a534-9999863c1310)
 
-## Usability Goals:
+## Prototypes
+
+
+
+
+## Usability Goals and Benchmark Tasks:
+
+
 
 1. The system should be easy for students to learn and navigate, minimizing the learning curve.
    - Usability Goal: New users should be able to perform essential tasks within 30 minutes of use.
