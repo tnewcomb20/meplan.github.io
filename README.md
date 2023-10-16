@@ -93,18 +93,16 @@ Core, Android)
 
 ![IMG_0397](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/150d6e5e-86f1-4dad-9df3-40f6d61b1a70)
 ![New Wireframe 1](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/c8b68cb3-bb9c-43be-85c1-7db534ebb130)
-![me plan mock up #2](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/7f7d4ee7-4285-4349-a534-9999863c1310)
 
 ## Prototypes:
 
-
-
+![me plan mock up #2](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/7f7d4ee7-4285-4349-a534-9999863c1310)
 
 
 ## Usability Goals and Benchmark Tasks:
 
 
-1. The system should be easy for students to learn and navigate, minimizing the learning curve.
+1. The system should be easy for students to learn and navigate.
    - Usability Goal: New users should be able to perform essential tasks within 30 minutes of use.
 
 2. Efficiency: The system should enable students to manage their assignments and tasks efficiently.
