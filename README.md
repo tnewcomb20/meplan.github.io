@@ -155,12 +155,7 @@ Todoist is a popular task management app that allows users to create tasks, set 
 - **Notion:** Notion provides a calendar view but may not offer the same level of academic calendar integration and academic event management as "Meplan."
 
 - **Todoist:** Todoist's calendar view primarily focuses on task management and lacks extensive academic calendar support.
-
-
-
-## High-level design:
-
-• 
+  
 
 ## Feasibility:
 
