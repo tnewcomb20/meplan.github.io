@@ -108,7 +108,6 @@ The application allows Maria to make quick updates to her schedule when last-min
 
 "Meplan" offers customizable notifications and reminders for upcoming deadlines, meetings, and events.
 Maria can set alerts to keep her on track and minimize feelings of overwhelm.
-Collaboration and Sharing:
 
 By adopting "Meplan," Maria can transition to a digital schedule management system that offers real-time updates, visual deadline tracking, and improved adaptability to last-minute changes. This shift can significantly reduce feelings of overwhelm and improve her overall time management.
 
