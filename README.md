@@ -84,6 +84,8 @@ Core, Android)
  
 ## (Deliverable #2)
 
+![IMG_0393](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/509030cd-06bd-44a8-bd1c-d23e9f5b4d3e)
+
 ![me plan mock up #2](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/7f7d4ee7-4285-4349-a534-9999863c1310)
 
 ## Usability Goals:
