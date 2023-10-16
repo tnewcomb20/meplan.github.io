@@ -82,9 +82,9 @@ Core, Android)
  projects and display it in a visually useful manner for users to interact with
 
  
-## (Deliverable #2)
+# (Deliverable #2)
 
-# Design Concepts
+## Design Concepts:
 
 ![IMG_0393](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/509030cd-06bd-44a8-bd1c-d23e9f5b4d3e)
 
