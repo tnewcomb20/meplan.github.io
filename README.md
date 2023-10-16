@@ -9,6 +9,7 @@
 ## Project Pitch or Proposal (Deliverable #1)
 
 ## Observations:
+
 • These observations highlight several pain points experienced by students when it comes to organizing their daily activities, including the use of various tools, difficulty in prioritization, and adapting to changes in their schedules. These insights will be valuable when designing a website that addresses these issues and provides a user-friendly solution for students to manage their tasks, deadlines, grades, club activities, and more efficiently
 Problem:
 
@@ -40,11 +41,7 @@ Problem:
 
 ## Use-case:
 
-does not identify persona
-does not address how the system solves the persona's
-needs
-use-case bears more semblance to a user manual than a
-story (i.e. no context was given)
+
 
 ## Related products:
 
@@ -56,14 +53,11 @@ Notion workspace: Current form is very uniform and generic with every part looki
 
 ## Product comparison:
 
+• 
 
 ## High-level design:
-• diagram is reasonably clear but lacks detail about
-functionality of application
-• paragraph description was necessary for me to
-understand
-• specific technologies need not be identified (e.g. Parse
-Core, Android)
+
+• 
 
 ## Feasibility:
 
