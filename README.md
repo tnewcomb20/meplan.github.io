@@ -121,6 +121,8 @@ By adopting "Meplan," Maria can transition to a digital schedule management syst
 
 Notion workspace: Current form is very uniform and generic with every part looking near identical and taking up the same amount of visual space. We could improve on this by tailoring it more to students specifically and allowing for more important items to be visually distinct, such as with tests or projects being larger or a different color, etc.
 
+![blog@2x-5](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/3faa16fb-6c58-4289-82a7-2278b5af3c0b)
+
 Todoist is a popular task management app that allows users to create tasks, set due dates, and prioritize them. It offers cross-platform support, integrations with other apps, and collaboration features. While Todoist is great for managing tasks, it may not provide in-depth calendar integration or academic-specific features like grade tracking.
 
 ## Product comparison:
