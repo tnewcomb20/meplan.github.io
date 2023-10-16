@@ -33,6 +33,7 @@ Problem:
 2. Deadline Tracking: He often forgets upcoming deadlines and has to check multiple apps to ensure he hasn't missed any assignments.
 3. Grade Monitoring: John spends a lot of time calculating his grades and planning how to improve them. He manually enters grade information into spreadsheets.
 
+![pexels-andrea-piacquadio-3762800](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/e9aa8982-06b5-462f-adef-7718e90717e9)
 ### User 3: Maria (Graduate Student)
 
 1. Complex Schedule: Maria's schedule is very complex. She juggles coursework, part-time work, research projects, and social activities. She uses a physical planner to keep track of everything.
