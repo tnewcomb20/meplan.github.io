@@ -68,10 +68,14 @@ Core, Android)
 ## Feasibility:
 
 • Designing a website that aids in assignment and project management through a user-friendly interface, connected to a database, is within the project scope.
+
 • Ability to create a usable website and connect it to a database to store and use information about different assignments 
   projects and display it in a visually useful manner for users to interact with
-• web development skills are necessary, specifically in HTML, CSS, and JavaScrip
+
+• Web development skills are necessary, specifically in HTML, CSS, and JavaScrip
+
 • Incorporating testing and user feedback loops throughout development can help ensure usability and functionality align with user expectations.
+
 • The timeline for this project scheduled to be finished by the end of the semester is realistic, given the necessary skills and resources.
 
 
