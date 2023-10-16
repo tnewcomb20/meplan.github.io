@@ -4,7 +4,7 @@
 
  Students often find it challenging to keep up with daily tasks, including homework, project deadlines, extracurricular, club meetings, and grades. The struggle to balance all these responsibilities can result in stress, missed deadlines,and etc. 
  
- Our team is committed to building "Meplan," a user-friendly website, to address this issue. Our goal with Meplan is to make students' lives easier by helping them manage their responsibilities more effectively.
+ Our team is committed to building "Meplan" a user-friendly website to address this issue. Our goal with Meplan is to make students' lives easier by helping them manage their responsibilities more effectively.
 
 ## Project Pitch or Proposal (Deliverable #1)
 
@@ -19,25 +19,37 @@ Problem:
 
 ### User 1: Emma (College Student)
 
-1. Morning Routine Observation: Sarah wakes up and checks her phone for notifications. She scrolls through multiple apps to find information about her daily tasks.
-2. Task Prioritization: She writes down her homework assignments in a notebook but struggles to prioritize them. She spends a considerable amount of time figuring out which tasks are more urgent.
-3.Club Activities: In the evening, she rushes to her extracurricular club meetings. She often forgets the meeting time and sometimes misses them.
+• **Notifications**: Sarah wakes up and checks her phone for notifications. She scrolls through multiple apps to find information about her daily tasks.
+
+• **Task Prioritization**: She writes down her homework assignments in a notebook but struggles to prioritize them. She spends a considerable amount of time figuring out which tasks are more urgent.
+
+• **Club Activities**: In the evening, she rushes to her extracurricular club meetings. She often forgets the meeting time and sometimes misses them.
+
+### Solutions:
 
 ![pexels-buro-millennial-1438081](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/78d5e8e4-5642-4eb3-ace0-b7318757daa3)
 
 ### User 2: John (College Student)
 
-1.Digital Tools: John primarily relies on digital tools. He uses a combination of a calendar app, a task management app, and a note-taking app to organize his tasks.
-2. Deadline Tracking: He often forgets upcoming deadlines and has to check multiple apps to ensure he hasn't missed any assignments.
-3. Grade Monitoring: John spends a lot of time calculating his grades and planning how to improve them. He manually enters grade information into spreadsheets.
+• **Digital Tools**: John primarily relies on digital tools. He uses a combination of a calendar app, a task management app, and a note-taking app to organize his tasks.
+
+• **Deadline Tracking**: He often forgets upcoming deadlines and has to check multiple apps to ensure he hasn't missed any assignments.
+
+• **Grade Monitoring**: John spends a lot of time calculating his grades and planning how to improve them. He manually enters grade information into spreadsheets.
+
+### Solutions:
 
 ![pexels-andrea-piacquadio-3762800](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/e9aa8982-06b5-462f-adef-7718e90717e9)
+
 ### User 3: Maria (Graduate Student)
 
-1. Complex Schedule: Maria's schedule is very complex. She juggles coursework, part-time work, research projects, and social activities. She uses a physical planner to keep track of everything.
+• **Complex Schedule**: Maria's schedule is very complex. She juggles coursework, part-time work, research projects, and social activities. She uses a physical planner to keep track of everything.
 
-2. Deadline Pressure: She frequently feels overwhelmed as she balances various responsibilities. Her planner helps her see overlapping deadlines.
-3.Adapting to Changes: Maria often has last-minute changes to her schedule due to research experiments or work meetings. She struggles to update her planner effectively.
+• **Deadline Pressure**: She frequently feels overwhelmed as she balances various responsibilities. Her planner helps her see overlapping deadlines.
+
+• **Adapting to Changes**: Maria often has last-minute changes to her schedule due to research experiments or work meetings. She struggles to update her planner effectively.
+
+### Solutions:
 
 ## Use-case:
 
