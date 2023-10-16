@@ -127,7 +127,36 @@ Todoist is a popular task management app that allows users to create tasks, set 
 
 ## Product comparison:
 
-• 
+**"Meplan" vs. Notion vs. Todoist:**
+
+
+**Academic-Centric Approach:**
+
+- **"Meplan":** "Meplan" is laser-focused on students' academic needs. It offers a set of features tailored to academic life, including grade tracking and academic calendar integration.
+  
+- **Notion:** Notion is a versatile tool with adaptability but lacks academic-specific features. Students often need to create custom academic databases and templates.
+
+- **Todoist:** While Todoist is an effective task management tool, it doesn't provide dedicated academic features like grade tracking or academic calendar integration.
+
+
+**Grade Tracking:**
+
+- **"Meplan":** "Meplan" includes an integrated grade tracking system, streamlining the process of inputting course grades and calculating GPA.
+
+- **Notion:** Notion can be customized to create grade tracking databases, but it requires additional setup.
+
+- **Todoist:** Todoist does not offer native grade tracking features, making it less suitable for academic purposes.
+
+
+**Academic Calendar Integration:**
+
+- **"Meplan":** "Meplan" seamlessly integrates with academic calendars, simplifying the organization of coursework alongside extracurricular activities and personal events.
+
+- **Notion:** Notion provides a calendar view but may not offer the same level of academic calendar integration and academic event management as "Meplan."
+
+- **Todoist:** Todoist's calendar view primarily focuses on task management and lacks extensive academic calendar support.
+
+
 
 ## High-level design:
 
