@@ -178,10 +178,6 @@ Todoist is a popular task management app that allows users to create tasks, set 
 
 ![IMG_0393](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/5d4b7e59-3511-49a9-90eb-e94465a5317c)
 ![IMG_0395](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/04bf4f13-8d2a-48d1-962f-c9cc57184876)
-
-
-## Prototypes:
-
 ![Mockup_Design](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/e755d9d2-5659-4c15-a52f-3b711bac0fc5)
 ![New Wireframe 1](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/6ef4cc02-156e-44b8-a5c9-35c173ce5206)
 ![New Wireframe 2](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/a6f13b19-2f49-4db0-bb69-b8513a59be85)
@@ -190,6 +186,8 @@ Todoist is a popular task management app that allows users to create tasks, set 
 ![New_Wireframe_3](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/59880a1a-cbe2-45a9-be12-be135acd249f)
 
 
+
+## Prototypes:
 
 
 ![IMG_0396](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/5907eda4-413f-41e5-86aa-37c8ee3866e6)
@@ -211,15 +209,6 @@ Todoist is a popular task management app that allows users to create tasks, set 
 
 **Variations**: Test different calendar layouts and methods for displaying task/event details.
 
-
-
-### Grade Tracking Prototype:
-
-**Objective**: Evaluate the ease of grade input and GPA calculation.
-
-**Key Features**: Inputting grades, viewing calculated GPA, and tracking academic performance.
-
-**Variations**: Test different GPA calculation methods and data input layouts.
 
 ![me plan mock up #2](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/7f7d4ee7-4285-4349-a534-9999863c1310)
 
