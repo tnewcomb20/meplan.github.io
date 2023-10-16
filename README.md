@@ -188,67 +188,52 @@ Notion workspace: Current form is very uniform and generic with every part looki
 
 ## Usability Goals and Benchmark Tasks:
 
-1. The system should be easy for students to learn and navigate.
-   - Usability Goal: New users should be able to perform essential tasks within 30 minutes of use.
+###Usability Goals:
 
-2. Efficiency: The system should enable students to manage their assignments and tasks efficiently.
-   - Usability Goal: Users should be able to add a new assignment, set a due date, and categorize it in under 2 minutes.
+• **Learnability and Navigation:**
+   - *Goal:* The system should be intuitive for new users, allowing them to perform essential tasks with ease within 30 minutes of use. This encompasses tasks like adding assignments, setting due dates, and marking assignments as complete.
 
-3. Error Minimization: The system should prevent common user errors in task management.
-   - Usability Goal: Users should make no more than 2 errors while using the system in a 30-minute session.
+• **Efficiency:**
+   - *Goal:* The system should empower users to efficiently manage assignments. Users should be able to add a new assignment, set a due date, and categorize it in under 2 minutes, ensuring that the platform supports quick and productive task management.
 
-4. User Satisfaction: The system should provide a positive user experience and meet the needs of students.
-   - Usability Goal: Users should rate their overall satisfaction with the system at an average of 4 or above on a 5-point Likert scale.
+• **Error Minimization:**
+   - *Goal:* The system should be designed to minimize user errors. Users should make no more than 2 errors while using the system during a 30-minute session, promoting a frustration-free experience.
 
-5. Task Completion: Users should be able to complete common tasks without difficulty.
-   - Usability Goal: 90% of users should successfully complete the following tasks within a set time frame:
-     - Add a new assignment
-     - Set a due date
-     - Categorize an assignment
-     - Mark an assignment as complete
+• **User Satisfaction:**
+   - *Goal:* The system should provide a positive user experience that aligns with students' needs. Users should rate their overall
 
-## Benchmark Tasks:
+• **Task Completion:**
+   - *Goal:* Users should be able to complete common tasks without difficulty. The following tasks should be accomplishable by 90% of users within a set time frame:
+     - Adding a new assignment
+     - Setting a due date
+     - Categorizing an assignment
+     - Marking an assignment as complete
 
-1. Add a New Assignment:
-   - Task: User should add a new assignment to the system.
-   - Success Criteria: User successfully adds an assignment with a title, description, and due date.
+### Benchmark Tasks:
 
-2. Set a Due Date:
-   - Task: User should set a due date for an existing assignment.
-   - Success Criteria: User successfully assigns a due date to an assignment.
+• **Add a New Assignment:**
+   - *Task:* Users should easily add a new assignment, including providing a title, description, and due date.
+   
+• **Set a Due Date:**
+   - *Task:* Users should be able to set a due date for an existing assignment quickly and without confusion.
 
-3. Categorize an Assignment:
-   - Task: User should categorize an assignment into a specific subject or course.
-   - Success Criteria: User successfully assigns an assignment to a specific category.
+•  **Categorize an Assignment:**
+   - *Task:* Users should efficiently categorize an assignment into a specific subject or course, ensuring an organized and intuitive system.
 
-4. Mark an Assignment as Complete:
-   - Task: User should mark an assignment as complete.
-   - Success Criteria: User successfully marks an assignment as complete, and it is visually indicated as such in the system.
+• **Mark an Assignment as Complete:**
+   - *Task:* Users should mark an assignment as complete, with a clear visual indication of its completion status for effective task management.
 
-5. Search for an Assignment:
-   - Task: User should search for a specific assignment within the system.
-   - Success Criteria: User successfully finds the assignment they were searching for.
+• **Search for an Assignment:**
+   - *Task:* Users should easily find a specific assignment within the system, allowing for quick access and retrieval.
 
-6. View Upcoming Assignments:
-   - Task: User should view a list of upcoming assignments and their due dates.
-   - Success Criteria: User can easily access a list of upcoming assignments and their due dates.
+• **View Upcoming Assignments:**
+   - *Task:* Users should access a list of upcoming assignments and their due dates without hassle, facilitating effective time planning.
 
-7. User Registration and Profile Setup:
-   - Task: New user should register on the website and set up their profile.
-   - Success Criteria: User completes the registration process and sets up their profile without encountering difficulties.
+• **User Registration and Profile Setup:**
+   - *Task:* New users should complete the registration process and set up their profiles without encountering difficulties, ensuring a smooth onboarding experience.
 
-8. Receive Assignment Reminders:
-   - Task: User should set up assignment reminders or notifications.
-   - Success Criteria: User successfully configures assignment reminders and receives a test notification.
-
-9. Sync with Calendar:
-   - Task: User should sync their assignment due dates with their personal calendar (e.g., Google Calendar).
-   - Success Criteria: User can integrate their assignment due dates with an external calendar successfully.
-
-10. Export/Print Assignment List:
-    - Task: User should be able to export or print a list of assignments for offline use.
-    - Success Criteria: User can generate a printable or exportable assignment list without difficulty.
-
+• **Receive Assignment Reminders:**
+   - *Task:* Users should be able to set up assignment reminders or notifications effortlessly and should successfully receive a test notification as a confirmation.
 
 
 
