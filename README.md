@@ -23,6 +23,8 @@ Problem:
 2. Task Prioritization: She writes down her homework assignments in a notebook but struggles to prioritize them. She spends a considerable amount of time figuring out which tasks are more urgent.
 3.Club Activities: In the evening, she rushes to her extracurricular club meetings. She often forgets the meeting time and sometimes misses them.
 
+![pexels-buro-millennial-1438081](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/78d5e8e4-5642-4eb3-ace0-b7318757daa3)
+
 ### User 2: John (College Student)
 
 1.Digital Tools: John primarily relies on digital tools. He uses a combination of a calendar app, a task management app, and a note-taking app to organize his tasks.
