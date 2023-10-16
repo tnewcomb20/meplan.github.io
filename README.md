@@ -17,6 +17,8 @@ Problem:
 
 ## Personas:
 
+![pexels-shvets-production-9052189](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/d3324710-c65c-4433-98cc-97f2a1da73eb)
+
 ### User 1: Emma (College Student)
 
 1. Morning Routine Observation: Sarah wakes up and checks her phone for notifications. She scrolls through multiple apps to find information about her daily tasks.
