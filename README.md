@@ -178,9 +178,14 @@ Todoist is a popular task management app that allows users to create tasks, set 
 
 ![IMG_0393](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/5d4b7e59-3511-49a9-90eb-e94465a5317c)
 ![IMG_0395](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/04bf4f13-8d2a-48d1-962f-c9cc57184876)
-![IMG_0396](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/5907eda4-413f-41e5-86aa-37c8ee3866e6)
+
 ![IMG_0397](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/43d6986c-908a-4b4e-bd24-1599da6fb349)
-![me plan mock up #2](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/809bbeaa-d18d-49ee-8c3e-8c85873330fb)
+
+
+## Prototypes:
+
+![me plan mock up #2](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/7f7d4ee7-4285-4349-a534-9999863c1310)
+
 ![me_plan_mock_up_2](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/cf0424ca-2c89-4542-b72e-bb76c41c9724)
 ![meplan_mock_up_](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/78546211-7f9b-40ed-8c89-2df174bff5cf)
 ![Mockup_Design](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/e755d9d2-5659-4c15-a52f-3b711bac0fc5)
@@ -189,9 +194,11 @@ Todoist is a popular task management app that allows users to create tasks, set 
 ![New Wireframe 3](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/5749ea06-bd4c-4c83-86cf-025019fc4848)
 ![New_Wireframe_1](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/4bdde6c0-5485-43d3-95e6-e123cd118538)
 ![New_Wireframe_3](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/59880a1a-cbe2-45a9-be12-be135acd249f)
-## Prototypes:
 
-![me plan mock up #2](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/7f7d4ee7-4285-4349-a534-9999863c1310)
+
+
+
+![IMG_0396](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/5907eda4-413f-41e5-86aa-37c8ee3866e6)
 
 ### Task Management Prototype:
 
@@ -200,6 +207,9 @@ Todoist is a popular task management app that allows users to create tasks, set 
 **Key Features**: Adding, editing, and deleting tasks; setting priorities and due dates.
 
 **Variations**: Explore different layouts for task lists and icon styles for priorities.
+
+
+
 
 ### Calendar Integration Prototype:
 
