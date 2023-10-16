@@ -179,8 +179,6 @@ Todoist is a popular task management app that allows users to create tasks, set 
 ![IMG_0393](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/5d4b7e59-3511-49a9-90eb-e94465a5317c)
 ![IMG_0395](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/04bf4f13-8d2a-48d1-962f-c9cc57184876)
 
-![IMG_0397](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/43d6986c-908a-4b4e-bd24-1599da6fb349)
-
 
 ## Prototypes:
 
@@ -234,6 +232,9 @@ Todoist is a popular task management app that allows users to create tasks, set 
 **Key Features**: Receiving and managing notifications, marking tasks/events as complete.
 
 **Variations**: Experiment with notification styles and organization.
+
+
+![IMG_0397](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/43d6986c-908a-4b4e-bd24-1599da6fb349)
 
 ### Customization and Personalization Prototype:
 
