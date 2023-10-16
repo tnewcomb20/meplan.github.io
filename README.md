@@ -188,7 +188,7 @@ Notion workspace: Current form is very uniform and generic with every part looki
 
 ## Usability Goals and Benchmark Tasks:
 
-###Usability Goals:
+### Usability Goals:
 
 • **Learnability and Navigation:**
    - *Goal:* The system should be intuitive for new users, allowing them to perform essential tasks with ease within 30 minutes of use. This encompasses tasks like adding assignments, setting due dates, and marking assignments as complete.
