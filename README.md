@@ -187,7 +187,7 @@ Todoist is a popular task management app that allows users to create tasks, set 
 ![me plan mock up #2](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/7f7d4ee7-4285-4349-a534-9999863c1310)
 
 ![me_plan_mock_up_2](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/cf0424ca-2c89-4542-b72e-bb76c41c9724)
-![meplan_mock_up_](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/78546211-7f9b-40ed-8c89-2df174bff5cf)
+
 ![Mockup_Design](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/e755d9d2-5659-4c15-a52f-3b711bac0fc5)
 ![New Wireframe 1](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/6ef4cc02-156e-44b8-a5c9-35c173ce5206)
 ![New Wireframe 2](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/a6f13b19-2f49-4db0-bb69-b8513a59be85)
@@ -210,12 +210,14 @@ Todoist is a popular task management app that allows users to create tasks, set 
 
 
 
-
+![meplan_mock_up_](https://github.com/tnewcomb20/meplan.github.io/assets/97752648/78546211-7f9b-40ed-8c89-2df174bff5cf)
 ### Calendar Integration Prototype:
 
 **Objective**: Evaluate the calendar view and task/event representation.
 
 **Variations**: Test different calendar layouts and methods for displaying task/event details.
+
+
 
 ### Grade Tracking Prototype:
 
