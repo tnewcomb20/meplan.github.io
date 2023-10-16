@@ -69,7 +69,18 @@ Feasibility:
 Ability to create a usable website and connect it to a database to store and use information about different assignments 
  projects and display it in a visually useful manner for users to interact with
 
-# Deliverable #2: Low fidelity prototype 3
+## High-level design:
+• diagram is reasonably clear but lacks detail about
+functionality of application
+• paragraph description was necessary for me to
+understand
+• specific technologies need not be identified (e.g. Parse
+Core, Android)
+
+## Feasibility:
+• Ability to create a usable website and connect it to a database to store and use information about different assignments 
+ projects and display it in a visually useful manner for users to interact with
+
 
 ![me plan mock up #2](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/7f7d4ee7-4285-4349-a534-9999863c1310)
 
