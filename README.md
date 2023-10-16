@@ -81,6 +81,8 @@ Core, Android)
 • Ability to create a usable website and connect it to a database to store and use information about different assignments 
  projects and display it in a visually useful manner for users to interact with
 
+ 
+## (Deliverable #2)
 
 ![me plan mock up #2](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/7f7d4ee7-4285-4349-a534-9999863c1310)
 
