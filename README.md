@@ -27,6 +27,24 @@ Problem:
 
 ### Solutions:
 
+**Notifications and Reminders:**
+
+"Meplan" can send push notifications to Sarah with her daily task and club meeting reminders.
+She can customize reminders for different tasks and activities.
+Notifications can include details like meeting time and homework deadlines, reducing the need to search through various apps.
+
+**Task Prioritization:**
+
+"Meplan" provides a task prioritization feature where Sarah can set the urgency and importance of her assignments.
+The website can automatically sort tasks based on priority, helping her focus on the most critical ones first.
+
+**Club Activities:**
+
+Sarah can input her club meetings into "Meplan," specifying the date, time, and location.
+The website can send her reminders well in advance to ensure she doesn't forget the meeting time.
+"Meplan" could also provide a calendar view that displays both academic and extracurricular commitments in one place for easy reference.
+By using "Meplan," Sarah can streamline her daily tasks, receive timely reminders, and prioritize her work effectively, resulting in better time management and fewer missed club meetings and assignments.
+
 ![pexels-buro-millennial-1438081](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/78d5e8e4-5642-4eb3-ace0-b7318757daa3)
 
 ### User 2: John (College Student)
