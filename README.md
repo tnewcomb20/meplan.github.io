@@ -9,11 +9,8 @@
 ## Project Pitch or Proposal (Deliverable #1)
 
 ## Observations:
-• complete and clear descriptions of users' behavior
-Students 
-These observations highlight several pain points experienced by students when it comes to organizing their daily activities, including the use of various tools, difficulty in prioritization, and adapting to changes in their schedules. These insights will be valuable when designing a website that addresses these issues and provides a user-friendly solution for students to manage their tasks, deadlines, grades, club activities, and more efficiently
+• These observations highlight several pain points experienced by students when it comes to organizing their daily activities, including the use of various tools, difficulty in prioritization, and adapting to changes in their schedules. These insights will be valuable when designing a website that addresses these issues and provides a user-friendly solution for students to manage their tasks, deadlines, grades, club activities, and more efficiently
 Problem:
-• good description of problem related to observations
 
 ## Personas:
 
@@ -59,20 +56,6 @@ Notion workspace: Current form is very uniform and generic with every part looki
 
 ## Product comparison:
 
-only identified why proposed system was technically
-more simple
-did not identify why product is a better fit for personas
-described earlier
-High-level design:
-diagram is reasonably clear but lacks detail about
-functionality of application
-paragraph description was necessary for me to
-understand
-specific technologies need not be identified (e.g. Parse
-Core, Android)
-Feasibility:
-Ability to create a usable website and connect it to a database to store and use information about different assignments 
- projects and display it in a visually useful manner for users to interact with
 
 ## High-level design:
 • diagram is reasonably clear but lacks detail about
@@ -83,10 +66,16 @@ understand
 Core, Android)
 
 ## Feasibility:
-• Ability to create a usable website and connect it to a database to store and use information about different assignments 
- projects and display it in a visually useful manner for users to interact with
 
- 
+• Designing a website that aids in assignment and project management through a user-friendly interface, connected to a database, is within the project scope.
+• Ability to create a usable website and connect it to a database to store and use information about different assignments 
+  projects and display it in a visually useful manner for users to interact with
+• web development skills are necessary, specifically in HTML, CSS, and JavaScrip
+• Incorporating testing and user feedback loops throughout development can help ensure usability and functionality align with user expectations.
+• The timeline for this project scheduled to be finished by the end of the semester is realistic, given the necessary skills and resources.
+
+
+
 # Deliverable #2: Low fidelity prototype
 
 ## Design Concepts:
@@ -139,7 +128,6 @@ Core, Android)
 
 
 ## Usability Goals and Benchmark Tasks:
-
 
 1. The system should be easy for students to learn and navigate.
    - Usability Goal: New users should be able to perform essential tasks within 30 minutes of use.
@@ -202,7 +190,6 @@ Core, Android)
     - Task: User should be able to export or print a list of assignments for offline use.
     - Success Criteria: User can generate a printable or exportable assignment list without difficulty.
 
-These usability goals and benchmark tasks will help evaluate the planner/tracker website's user-friendliness and functionality, ensuring it meets the needs of its target user population effectively.
 
 
 
