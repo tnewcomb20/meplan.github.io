@@ -10,14 +10,26 @@
 
 ## Observations:
 
-• These observations highlight several pain points experienced by students when it comes to organizing their daily activities, including the use of various tools, difficulty in prioritization, and adapting to changes in their schedules. These insights will be valuable when designing a website that addresses these issues and provides a user-friendly solution for students to manage their tasks, deadlines, grades, club activities, and more efficiently
-Problem:
+By addressing these potential problems with appropriate solutions, "Meplan" can offer students a more efficient and user-friendly experience in managing their daily tasks and responsibilities.
+
+**Lack of Task Prioritization:** Students might struggle to prioritize tasks effectively, leading to poor time management.
+  
+   - **Solution:** Incorporate a task prioritization algorithm that helps students categorize and rank assignments by urgency and importance. Provide visual cues for prioritized tasks.
+
+**Overwhelming Notifications:** Excessive or poorly timed notifications could overwhelm students.
+  
+   - **Solution:** Allow users to customize notification settings, specifying the type, frequency, and timing of notifications to suit their preferences.
+
+**Inflexibility in Calendar Management:** Students may need to adapt to last-minute schedule changes, which the calendar doesn't easily accommodate.
+ 
+   - **Solution:** Enable drag-and-drop functionality in the calendar, offer an "adjust schedule" option, and provide clear visual cues for rescheduled tasks.
+
 
 ## Personas:
 
 ![pexels-shvets-production-9052189](https://github.com/tnewcomb20/tnewcomb20.github.io/assets/97752648/d3324710-c65c-4433-98cc-97f2a1da73eb)
 
-### User 1: Emma (College Student)
+### User 1: Sarah (College Student)
 
 • **Notifications**: Sarah wakes up and checks her phone for notifications. She scrolls through multiple apps to find information about her daily tasks.
 
