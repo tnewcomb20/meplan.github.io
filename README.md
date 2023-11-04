@@ -291,5 +291,15 @@ Todoist is a popular task management app that allows users to create tasks, set 
 
 User's manual
 
+---
+layout: default
+title: Another page
+description: This is just another page
+---
 
+## Welcome to another page
+
+_yay_
+
+[back](./)
 
