@@ -289,17 +289,5 @@ Todoist is a popular task management app that allows users to create tasks, set 
 
 ## Deliverable #3 (A&B): High fidelity prototype and evaluation plan
 
-User's manual
 
----
-layout: default
-title: Another page
-description: This is just another page
----
-
-## Welcome to another page
-
-_yay_
-
-[back](./)
 
