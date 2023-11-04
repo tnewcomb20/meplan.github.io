@@ -287,7 +287,18 @@ Todoist is a popular task management app that allows users to create tasks, set 
    - *Task:* Users should be able to set up assignment reminders or notifications effortlessly and should successfully receive a test notification as a confirmation.
 
 
-## Deliverable #3 (A&B): High fidelity prototype and evaluation plan
+# Deliverable #3 (A&B): High fidelity prototype and evaluation plan
 
+
+## Prototype Implementation:
+
+
+## User manual
+
+## User population
+
+## Usability goals: 
+
+## Usability Evaluation
 
 
