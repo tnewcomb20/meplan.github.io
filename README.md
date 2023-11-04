@@ -292,8 +292,46 @@ Todoist is a popular task management app that allows users to create tasks, set 
 
 ## Prototype Implementation:
 
-
 ## User manual
+
+### User Manual for Meplan
+
+Table of Contents
+
+1. Introduction
+   
+2.Getting Started
+
+  2.1 Accessing the Web Page
+
+3. Homework tracker
+
+  3.1 Adding Homework Tasks
+
+  3.2 Editing or Deleting Homework Entries
+
+  3.3 Setting Dates and Priorities
+
+4. To-do list
+   
+  4.1 Adding Check-list Items
+
+  4.2 Editing or Deleting Check-list Entries
+
+5. Google Calendar Integration
+   
+  5.1 Linking Google Calendar
+  
+  5.2 Viewing Google Calendar Events
+  
+6. Grade Calculator
+   
+  6.1 Entering Course Information
+  6.2 Calculating and Tracking Grades
+  
+7. Troubleshooting
+   
+  7.1 Common Issues and Solutions
 
 ## User population
 
