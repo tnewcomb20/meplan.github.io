@@ -400,37 +400,54 @@ Explain how to use the grade calculator tool.
 Describe how to input course information for grade calculation.
 6.2 Calculating and Tracking Grades
 Detail the process for calculating and tracking grades.
-8. Troubleshooting
-7. Troubleshooting
+
+
+
+**7.Troubleshooting**
+
 While our system is designed to work seamlessly, you might encounter some common issues. Here are potential problems and their solutions:
 
 7.1 Common Issues and Solutions
+
 Issue 1: Unable to Access the Web Page
+
 Solution:
-Check your internet connection to ensure you're online.
-Clear your browser cache and cookies.
-Try accessing the web page from a different browser.
-If the issue persists, our servers may be temporarily down; please try again later.
+ - Check your internet connection to ensure you're online.
+ - Clear your browser cache and cookies.
+ - Try accessing the web page from a different browser.
+ - If the issue persists, our servers may be temporarily down; please try again later.
+
 Issue 2: Can't Connect to Google Calendar
+
 Solution:
-Ensure that you are logged into the correct Google account.
-Verify that you've granted the necessary permissions for calendar integration.
-Reconnect your Google Calendar in the "Google Calendar Integration" settings.
+
+ - Ensure that you are logged into the correct Google account.
+ - Verify that you've granted the necessary permissions for calendar integration.
+ - Reconnect your Google Calendar in the "Google Calendar Integration" settings.
+
 Issue 3: Missing Homework Entries
+
 Solution:
-Check your "Homework Planner" tab to make sure you're looking at the right date range.
-Verify that you didn't accidentally delete the tasks.
-If you still can't find the tasks, it's possible that they were not saved correctly. Re-enter them.
+
+ - Check your "Homework Planner" tab to make sure you're looking at the right date range.
+ - Verify that you didn't accidentally delete the tasks.
+ - If you still can't find the tasks, it's possible that they were not saved correctly. Re-enter them.
+
 Issue 4: Grade Calculator Error
+
 Solution:
-Double-check that you've correctly entered all the necessary information for your courses.
-Make sure you're using the right grading scale (e.g., percentage, letter grades).
-If the problem persists, try refreshing the "Grade Calculator" page.
+
+ - Double-check that you've correctly entered all the necessary information for your courses.
+ - Make sure you're using the right grading scale (e.g., percentage, letter grades).
+ - If the problem persists, try refreshing the "Grade Calculator" page.
+
 Issue 5: Slow System Performance
+
 Solution:
-Close any unnecessary browser tabs or applications that might be consuming system resources.
-Clear your browser cache to improve loading times.
-If you continue to experience slow performance, consider using the latest version of your web browser.
+
+ - Close any unnecessary browser tabs or applications that might be consuming system resources.
+ - Clear your browser cache to improve loading times.
+ - If you continue to experience slow performance, consider using the latest version of your web browser.
 
 
 ## User population
