@@ -394,18 +394,12 @@ You can easily set dates and priorities for your homework tasks:
 
 **5.2 Viewing Google Calendar Events**
 
-**6. Grade Calculator**
 
-**6.1 Entering Course Information**
-
-**6.2 Calculating and Tracking Grades**
-
-
-**7.Troubleshooting**
+**6.Troubleshooting**
 
 While our system is designed to work seamlessly, you might encounter some common issues. Here are potential problems and their solutions:
 
-**7.1 Common Issues and Solutions**
+**6.1 Common Issues and Solutions**
 
 Issue 1: Unable to Access the Web Page
 
@@ -495,104 +489,132 @@ By ensuring the usability test includes participants from these user segments, t
 
 ## Usability Evaluation
 
-**1. Number of Examiners:**
-   - One examiner is typically sufficient for conducting a usability test. However, for larger-scale tests or complex systems, consider having two examiners, one to facilitate and one to take notes.
+1. How many examiners are required?
 
-**2. Equipment for Examiners:**
-   - Laptop or computer for running the test
-   - Audio/video recording equipment (if needed)
-   - Stopwatches or timing tools
-   - Notepads and pens for taking notes
-   - User interface testing software (if applicable)
-   - Test script or checklist
-   - Prototyping software (if applicable)
-   - Copies of the usability test tasks and questions
+We will have a team of 3-5 examiners for this usability test. Each examiner will have a specific role, including moderator, observers, and one technical support expert. This team composition ensures a comprehensive evaluation of the app's usability and helps in efficient data collection.
 
-**3. Handling the Prototype:**
-   - Ensure the prototype is fully functional and accessible.
-   - Provide any necessary documentation, including a user manual or task list.
-   - Make sure that the prototype is installed and set up on the testing equipment before the test.
+2. What equipment will the examiners need?
 
-**4. Instructions for Examiners:**
-   - Examiners should familiarize themselves with the test script, objectives, and usability goals.
-   - Examiners should be trained on the use of recording equipment and any software tools.
-   - Examiners should maintain a neutral and non-intrusive presence during the test, only intervening if necessary or requested by the test participant.
+Examiners will need laptops or computers with screen recording software and usability testing tools installed. 
 
-**5. Treatment of Test Subjects:**
-   - Examiners should greet the test subjects in a friendly and welcoming manner.
-   - Inform test subjects about the purpose of the test, emphasizing that it's the system being tested, not their abilities.
-   - Assure test subjects that there are no right or wrong answers and that their feedback is invaluable.
+3. How should your prototype be handled? (manual/documentation)
 
-**6. What Examiners Should Avoid Doing:**
-   - Examiners should avoid offering hints or suggestions to the test subjects during the test.
-   - Examiners should not influence the test subjects' decisions or actions.
-   - Examiners should avoid making judgmental or critical comments about the test subjects' performance.
+Examiners should refer to a detailed user manual provided for the prototype. The manual contains step-by-step instructions, task scenarios, and a usability testing checklist. Examiners should consult the manual when instructing users and during the post-test analysis.
 
-**7. What Examiners Should Avoid Telling Test Subjects:**
-   - Examiners should not disclose the specific usability goals or expected user behavior to the test subjects, as this might bias their responses.
-   - Examiners should not provide the test subjects with solutions to problems they encounter during the test.
+4. How will you instruct your examiners to proceed?
 
-**8. What/How/When to Measure:**
-   - Measure task completion time for each usability task.
-   - Record the number of task errors and issues encountered by test subjects.
-   - Collect subjective feedback through post-test questionnaires or interviews.
-   - Document any observations about user behavior, expressions, and comments during the test.
-   - Capture video and audio recordings of the test sessions for later analysis.
+Examiners should follow a predefined script when introducing the test to participants. They should explain the purpose of the test, reassure participants that their feedback is valuable, and ask them to think aloud as they interact with the app. Examiners should guide participants through specific tasks, such as creating an account and connect to google calendar.
 
-**9. Test Execution:**
-   - Examiners should follow the usability test script, presenting each task to the test subjects in the defined order.
-   - Examiners should encourage test subjects to "think aloud" during the test, sharing their thought process and feelings as they interact with the system.
-   - Examiners should monitor and record task completion, errors, and user feedback during the test.
-   - Examiners should remain unobtrusive but be ready to assist test subjects if they encounter significant difficulties.
+5. How should the examiners treat the test subjects, what should they tell them?
 
-By following this detailed usability test procedure, an independent team should be well-prepared to conduct the test, gather useful data, and assess the usability of the system effectively. This procedure covers the essentials, ensuring a smooth and informative usability testing process.
+Examiners should treat participants with respect and remain neutral. They should explain that they are here to evaluate the app, not the users' abilities. Participants should be told to perform tasks as they normally would and to speak their thoughts aloud, expressing any difficulties or confusion they encounter.
+
+6. What should the examiners avoid doing?
+
+Examiners should avoid leading participants or suggesting solutions to problems they encounter. They should refrain from interrupting users during tasks and maintain a non-biased, non-judgmental demeanor throughout the session. Examiners should also avoid making personal comments or expressing their own opinions about the app.
+
+7. What should the examiners avoid telling the test subjects?
+
+Examiners should not reveal specific information about the app's features, objectives, or the goals of the usability test. This ensures that users provide unbiased feedback based on their natural interactions with the app.
+
+8. What/How/When should the examiners measure?
+
+Examiners will measure task completion rates, time on task, and user satisfaction through a post-test questionnaire. They will also record user interactions with the app through screen recordings. Measurements will be taken after each task and during post-test interviews to gather qualitative insights and suggestions for improvements.
 
 # Usability Evaluation
 
-*Usability Evaluation Plan for Meplan Homework Tracker Website**
+A usability evaluation plan specific to MePlan, the digital planner software, would be tailored to its features and functionality. Here's an example of a usability evaluation plan for MePlan:
 
-**1. Introduction:**
-   - Provide an overview of the Meplan Homework Tracker Website and its purpose.
-   - Specify the objectives of the usability evaluation.
+## MePlan Usability Evaluation Plan
 
-**2. Methodology:**
-   - **Evaluation Type:** This evaluation will be a **Heuristic Evaluation** based on Jakob Nielsen's usability heuristics.
-   - **Participants:** Experienced usability experts or evaluators will conduct the assessment.
-   - **Evaluation Tools:** Evaluators will use a computer or mobile device to access the Meplan website, note-taking materials, and Nielsen's heuristics for reference.
-   - **Evaluation Environment:** Evaluators will work in a controlled and quiet environment to ensure focused assessments.
+### Project Overview
+- **Project Name:** MePlan Usability Evaluation
+- **Project Goals:** Assess the usability and user-friendliness of the MePlan digital planner application.
+- **Project Description:** MePlan is designed to help students manage their homework, assignments, academic responsibilities, and integrate with Google Calendar. The evaluation aims to identify usability issues and gather user feedback for improvements.
 
-**3. Usability Heuristics:**
-   - Evaluators will refer to Jakob Nielsen's list of usability heuristics, which includes principles such as visibility of system status, match between the system and the real world, user control and freedom, etc. The evaluation will address how well Meplan adheres to these principles.
+### Usability Evaluation Objectives
+- **Primary Objectives:**
+  - Evaluate the ease of use and effectiveness of key features (homework planner, checklist, Google Calendar integration, and grade calculator).
+  - Identify common usability issues and potential areas for improvement.
 
-**4. Criteria to be Assessed:**
-   - The following criteria will be assessed based on the usability heuristics:
-     1. **Visibility of System Status:** How well does Meplan provide feedback to users about their task progress and the system's current status?
-     2. **Match between System and Real World:** To what extent does Meplan use language, concepts, and workflows that are familiar to students and teachers?
-     3. **User Control and Freedom:** How easily can users navigate and modify their homework assignments without errors or complex procedures?
-     4. **Consistency and Standards:** Does Meplan adhere to consistent design standards, both within the application and in the context of educational tools?
-     5. **Error Prevention:** To what extent does Meplan help users avoid mistakes or provide guidance for error recovery?
-     6. **Recognition Rather than Recall:** Does Meplan minimize the need for users to memorize information by making it visible and easily accessible?
-     7. **Flexibility and Efficiency of Use:** How well does Meplan accommodate students of varying ages and technological expertise?
-     8. **Aesthetic and Minimalist Design:** Is Meplan visually appealing and free from unnecessary clutter?
-     9. **Help Users Recognize, Diagnose, and Recover from Errors:** How effectively does Meplan assist users in understanding and correcting errors?
-     10. **Help and Documentation:** To what extent does Meplan provide easily accessible help and documentation for users?
+### Scope and Focus
+- **Product/Service Scope:**
+  - Evaluate all key features of MePlan, including Homework Planner, Checklist, Google Calendar Integration, and Grade Calculator.
+- **User Types:**
+  - Participants will include students, educators, and administrators.
+- **Key Tasks:**
+  - Participants will be asked to create homework tasks, add checklist items, link Google Calendar, and calculate grades.
 
-**5. Evaluation Process:**
-   - Each evaluator will individually assess Meplan, recording specific issues and concerns related to the criteria and heuristics.
-   - Evaluators will work independently to avoid group bias.
-   - After the individual assessments, evaluators will convene to discuss their findings and reach a consensus on identified usability problems and areas for improvement.
+### Evaluation Methods
+- **Usability Testing:**
+  - Conduct individual usability testing sessions with 10 participants (a mix of students, educators, and administrators).
+  - Sessions will last approximately 30 minutes.
+- **Heuristic Evaluation:**
+  - Conduct a heuristic evaluation with a team of usability experts to identify potential issues.
+- **Surveys/Questionnaires:**
+  - Administer post-test surveys to collect user feedback on overall satisfaction and user experience.
 
-**6. Reporting:**
-   - The evaluation results will be documented in a comprehensive report, highlighting usability issues, recommendations for improvements, and their severity levels.
-   - Each issue will be linked to the specific heuristic(s) it violates.
+### Participants
+- **Recruitment:**
+  - Participants will be recruited through various educational institutions and online platforms.
+  - A diverse group of participants will be selected to represent different user demographics.
+- **Informed Consent:**
+  - Participants will be provided with information about the evaluation and asked to provide informed consent.
 
-**7. Actionable Recommendations:**
-   - The report will provide actionable recommendations for design enhancements and improvements to address the identified usability issues.
+### Evaluation Materials
+- **Test Scenarios:**
+  - Create test scenarios that involve typical user interactions with MePlan, such as adding homework tasks and integrating Google Calendar.
+- **Questionnaires:**
+  - Develop questionnaires to collect user feedback on their experience with MePlan.
+- **User Profiles:**
+  - Create user profiles representing the different roles involved (students, educators, administrators).
 
-**8. Timeline:**
-   - Specify the timeline for the evaluation process, including evaluation dates, discussion sessions, and the delivery of the final report.
+### Data Collection
+- **Data Recording:**
+  - Record usability test sessions using video and audio.
+  - Collect notes and observations during heuristic evaluations.
+- **Data Analysis:**
+  - Analyze user feedback, usability issues, and completion times for tasks.
+- **Metrics:**
+  - Utilize metrics like task completion rate, time on task, and user satisfaction scores.
 
-By following this usability evaluation plan, independent evaluators will be able to conduct a thorough assessment of the Meplan Homework Tracker Website, identifying usability issues and providing actionable recommendations to enhance the user experience for students and teachers.
+### Timeline
+- **Scheduling:**
+  - Usability testing and heuristic evaluation will be conducted over a two-week period.
+- **Responsibilities:**
+  - Assign roles and responsibilities to team members, including test facilitators, note-takers, and analysts.
+
+### Reporting and Recommendations
+- **Report Format:**
+  - Create a comprehensive usability evaluation report summarizing findings, issues, and recommendations.
+- **Recommendations:**
+  - Provide recommendations for addressing identified usability issues and enhancing the user experience.
+
+### Budget and Resources
+- **Budget:**
+  - Allocate budget for participant compensation, usability testing tools, and analysis software.
+- **Tools and Equipment:**
+  - Ensure availability of devices for testing, usability software, and facilities for conducting evaluations.
+
+### Ethical Considerations
+- **Privacy and Consent:**
+  - Adhere to ethical guidelines regarding participant privacy and obtain informed consent.
+- **Data Security:**
+  - Ensure the secure storage and handling of participant data.
+
+### Risk Assessment
+- **Potential Risks:**
+  - Risks may include scheduling conflicts, technical issues, or participant dropouts.
+- **Mitigation Plans:**
+  - Have backup participants, technical support, and contingency plans in place.
+
+### Approval and Sign-off
+- **Project Manager:**
+  - [Name of the project manager approving the plan]
+- **Date:**
+  - [Date of plan approval]
+
+This tailored usability evaluation plan for MePlan ensures a structured and focused approach to assess the application's usability and gather valuable feedback for enhancements. It accounts for the specific features and functionalities of MePlan, the target user groups, and ethical considerations.
 
 
 
