@@ -407,7 +407,7 @@ While our system is designed to work seamlessly, you might encounter some common
 
 **7.1 Common Issues and Solutions**
 
-- Issue 1: Unable to Access the Web Page
+Issue 1: Unable to Access the Web Page
 
 Solution:
  - Check your internet connection to ensure you're online.
@@ -415,7 +415,7 @@ Solution:
  - Try accessing the web page from a different browser.
  - If the issue persists, our servers may be temporarily down; please try again later.
 
-- Issue 2: Can't Connect to Google Calendar
+Issue 2: Can't Connect to Google Calendar
 
 Solution:
 
@@ -423,7 +423,7 @@ Solution:
  - Verify that you've granted the necessary permissions for calendar integration.
  - Reconnect your Google Calendar in the "Google Calendar Integration" settings.
 
-- Issue 3: Missing Homework Entries
+Issue 3: Missing Homework Entries
 
 Solution:
 
@@ -431,7 +431,7 @@ Solution:
  - Verify that you didn't accidentally delete the tasks.
  - If you still can't find the tasks, it's possible that they were not saved correctly. Re-enter them.
 
-- Issue 4: Grade Calculator Error
+Issue 4: Grade Calculator Error
 
 Solution:
 
@@ -439,7 +439,7 @@ Solution:
  - Make sure you're using the right grading scale (e.g., percentage, letter grades).
  - If the problem persists, try refreshing the "Grade Calculator" page.
 
-- Issue 5: Slow System Performance
+Issue 5: Slow System Performance
 
 Solution:
 
