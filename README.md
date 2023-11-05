@@ -523,12 +523,6 @@ Examiners will measure task completion rates, time on task, and user satisfactio
 
 # Usability Evaluation
 
-## MePlan Usability Evaluation Plan
-
-### Project Overview
-- **Project Goals:** Assess the usability and user-friendliness of the MePlan digital planner website.
-- **Project Description:** MePlan is designed to help students manage their homework, assignments, academic responsibilities, and integrate with Google Calendar. The evaluation aims to identify usability issues and gather user feedback for improvements.
-
 ### Usability Evaluation Objectives
 - **Primary Objectives:**
   - Evaluate the ease of use and effectiveness of key features (homework planner, checklist, Google Calendar integration, and grade calculator).
