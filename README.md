@@ -450,20 +450,10 @@ Solution:
 
 ## User population
 
-
-To ensure the usability test session aligns with the user segments defined in the project proposal, which aim for college students, it's important to describe the user population 
-
-for the test session accordingly. Here's a description of the user population for the usability test:
-
-
-The user population for the usability test comprises college students and students in general who are potential users of the Meplan Homework Tracker Website. These users represent the primary target audience for the application, and the evaluation aims to ensure that it meets their needs effectively.
-
 **Inclusivity of User Segments:**
-1. **College Students:** This group includes undergraduate and graduate students pursuing various academic disciplines. They may have different levels of technical proficiency and are expected to use the Meplan website for tracking homework assignments, managing academic deadlines, and improving their time management skills.
+1. **College Students:** This group include undergraduate students pursuing various academic disciplines. They may have different levels of technical proficiency and are expected to use the Meplan website for tracking homework assignments, managing academic deadlines, and improving their time management skills.
 
-2. **High School Students:** High school students form a significant portion of the user population, as they are often introduced to academic planning and assignment tracking early on. Their needs and familiarity with digital tools may vary, and the evaluation should consider their requirements.
-
-3. **General Students:** This category encompasses students of various age groups and educational backgrounds who may require homework and task tracking tools for self-improvement, lifelong learning, or professional development.
+2. **General Students:** This category encompasses students of various age groups and educational backgrounds who may require homework and task tracking tools for self-improvement, lifelong learning, or professional development.
 
 **Diversity in Academic Majors:**
 The user population represents a diverse range of academic majors, including but not limited to arts, sciences, engineering, humanities, and more. This diversity reflects the broad applicability of the Meplan Homework Tracker Website to students across different disciplines.
@@ -471,11 +461,8 @@ The user population represents a diverse range of academic majors, including but
 **Technical Proficiency:**
 Users may have varying levels of technical proficiency, ranging from tech-savvy individuals to those with limited experience in using digital tools for academic purposes. The usability test aims to evaluate the website's accessibility and ease of use for users with different technical backgrounds.
 
-**Device and Platform Preferences:**
-The user population may access the Meplan website through various devices, including laptops, desktops, tablets, and mobile phones. The usability test should consider the compatibility and responsiveness of the website on different platforms.
-
 **Academic Stages:**
-Users may be in different academic stages, such as freshmen, sophomores, juniors, seniors, and graduate students. The website should cater to the specific needs and challenges associated with these stages, and the evaluation will assess its suitability for users at different points in their academic journeys.
+Users may be in different academic stages, such as freshmen, sophomores, juniors, and seniors. The website should cater to the specific needs and challenges associated with these stages, and the evaluation will assess its suitability for users at different points in their academic journeys.
 
 **Varied User Goals:**
 The user population has a range of goals, including tracking homework assignments, managing academic deadlines, improving productivity, and achieving better academic results. The usability test will evaluate the website's ability to help users meet these goals effectively.
