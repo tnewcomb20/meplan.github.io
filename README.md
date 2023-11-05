@@ -295,29 +295,29 @@ Todoist is a popular task management app that allows users to create tasks, set 
 
 **Table of Contents**
 
-1.Introduction
+**1.Introduction**
 
-2.Getting Started
+**2.Getting Started**
  - 2.1 Accessing the Web Page
 
-3.Homework Check-list
+**3.Homework Check-list**
  - 3.1 Adding Homework Tasks
  - 3.2 Editing or Deleting Homework Entries
  - 3.3 Setting Dates and Priorities
 
-4.Check-list
+**4.Check-list**
  - 4.1 Adding Check-list Items
  - 4.2 Editing or Deleting Check-list Entries
 
-5.Google Calendar Integration
+**5.Google Calendar Integration**
  - 5.1 Linking Google Calendar
  - 5.2 Viewing Google Calendar Events
 
-6.Grade Calculator
+**6.Grade Calculator**
  - 6.1 Entering Course Information
  - 6.2 Calculating and Tracking Grades
 
-7.Troubleshooting
+**7.Troubleshooting**
  - 7.1 Common Issues and Solutions
 
 
@@ -331,7 +331,7 @@ Todoist is a popular task management app that allows users to create tasks, set 
 
 You won't need to go through the hassle of downloading or installing any software. Here's how to access the MePlan web page:
 
-2.1 Accessing the Web Page
+**2.1 Accessing the Web Page**
  
   To get started with MePlan, follow these simple steps to access the web page:
   
@@ -343,7 +343,7 @@ You won't need to go through the hassle of downloading or installing any softwar
 
 **3. Homework Check-list**
 
-3.1 Adding Homework Tasks
+**3.1 Adding Homework Tasks**
 
  To add a homework task to your planner, follow these steps:
  
@@ -360,7 +360,7 @@ You won't need to go through the hassle of downloading or installing any softwar
    Once you've filled in the task details, click the "Add Task" button to save it.
 
 
-3.2 Editing or Deleting Homework Entries
+**3.2 Editing or Deleting Homework Entries**
 
 If you need to edit or delete a homework entry, follow these steps:
 
@@ -372,7 +372,7 @@ If you need to edit or delete a homework entry, follow these steps:
 
  - To delete, click the trash icon next to the task. Confirm the deletion when prompted.
 
-3.3 Setting Dates and Priorities
+**3.3 Setting Dates and Priorities**
 
 You can easily set dates and priorities for your homework tasks:
 
@@ -383,33 +383,31 @@ You can easily set dates and priorities for your homework tasks:
 
 **4. Check-list**
 
-Explain the use of the quick reminder check-list.
-4.1 Adding Check-list Items
-Provide instructions on adding items to the check-list.
-4.2 Editing or Deleting Check-list Entries
-Explain how to edit or delete check-list entries.
-6. Google Calendar Integration
-Describe how to integrate Google Calendar with your system.
-5.1 Linking Google Calendar
-Provide a step-by-step guide on how users can connect their Google Calendar.
-5.2 Viewing Google Calendar Events
-Explain how users can view Google Calendar events within your system.
-7. Grade Calculator
-Explain how to use the grade calculator tool.
-6.1 Entering Course Information
-Describe how to input course information for grade calculation.
-6.2 Calculating and Tracking Grades
-Detail the process for calculating and tracking grades.
 
+**4.1 Adding Check-list Items**
+
+**4.2 Editing or Deleting Check-list Entries**
+
+**5. Google Calendar Integration**
+
+**5.1 Linking Google Calendar**
+
+**5.2 Viewing Google Calendar Events**
+
+**6. Grade Calculator**
+
+**6.1 Entering Course Information**
+
+**6.2 Calculating and Tracking Grades**
 
 
 **7.Troubleshooting**
 
 While our system is designed to work seamlessly, you might encounter some common issues. Here are potential problems and their solutions:
 
-7.1 Common Issues and Solutions
+**7.1 Common Issues and Solutions**
 
-Issue 1: Unable to Access the Web Page
+- Issue 1: Unable to Access the Web Page
 
 Solution:
  - Check your internet connection to ensure you're online.
@@ -417,7 +415,7 @@ Solution:
  - Try accessing the web page from a different browser.
  - If the issue persists, our servers may be temporarily down; please try again later.
 
-Issue 2: Can't Connect to Google Calendar
+- Issue 2: Can't Connect to Google Calendar
 
 Solution:
 
@@ -425,7 +423,7 @@ Solution:
  - Verify that you've granted the necessary permissions for calendar integration.
  - Reconnect your Google Calendar in the "Google Calendar Integration" settings.
 
-Issue 3: Missing Homework Entries
+- Issue 3: Missing Homework Entries
 
 Solution:
 
@@ -433,7 +431,7 @@ Solution:
  - Verify that you didn't accidentally delete the tasks.
  - If you still can't find the tasks, it's possible that they were not saved correctly. Re-enter them.
 
-Issue 4: Grade Calculator Error
+- Issue 4: Grade Calculator Error
 
 Solution:
 
@@ -441,7 +439,7 @@ Solution:
  - Make sure you're using the right grading scale (e.g., percentage, letter grades).
  - If the problem persists, try refreshing the "Grade Calculator" page.
 
-Issue 5: Slow System Performance
+- Issue 5: Slow System Performance
 
 Solution:
 
