@@ -489,35 +489,35 @@ By ensuring the usability test includes participants from these user segments, t
 
 ## Usability Evaluation
 
-1. How many examiners are required?
+ - How many examiners are required?
 
 We will have a team of 3-5 examiners for this usability test. Each examiner will have a specific role, including moderator, observers, and one technical support expert. This team composition ensures a comprehensive evaluation of the app's usability and helps in efficient data collection.
 
-2. What equipment will the examiners need?
+ - What equipment will the examiners need?
 
 Examiners will need laptops or computers with screen recording software and usability testing tools installed. 
 
-3. How should your prototype be handled? (manual/documentation)
+ - How should your prototype be handled? (manual/documentation)
 
 Examiners should refer to a detailed user manual provided for the prototype. The manual contains step-by-step instructions, task scenarios, and a usability testing checklist. Examiners should consult the manual when instructing users and during the post-test analysis.
 
-4. How will you instruct your examiners to proceed?
+ - How will you instruct your examiners to proceed?
 
 Examiners should follow a predefined script when introducing the test to participants. They should explain the purpose of the test, reassure participants that their feedback is valuable, and ask them to think aloud as they interact with the app. Examiners should guide participants through specific tasks, such as creating an account and connect to google calendar.
 
-5. How should the examiners treat the test subjects, what should they tell them?
+ - How should the examiners treat the test subjects, what should they tell them?
 
 Examiners should treat participants with respect and remain neutral. They should explain that they are here to evaluate the app, not the users' abilities. Participants should be told to perform tasks as they normally would and to speak their thoughts aloud, expressing any difficulties or confusion they encounter.
 
-6. What should the examiners avoid doing?
+ - What should the examiners avoid doing?
 
 Examiners should avoid leading participants or suggesting solutions to problems they encounter. They should refrain from interrupting users during tasks and maintain a non-biased, non-judgmental demeanor throughout the session. Examiners should also avoid making personal comments or expressing their own opinions about the app.
 
-7. What should the examiners avoid telling the test subjects?
+ - What should the examiners avoid telling the test subjects?
 
 Examiners should not reveal specific information about the app's features, objectives, or the goals of the usability test. This ensures that users provide unbiased feedback based on their natural interactions with the app.
 
-8. What/How/When should the examiners measure?
+ - What/How/When should the examiners measure?
 
 Examiners will measure task completion rates, time on task, and user satisfaction through a post-test questionnaire. They will also record user interactions with the app through screen recordings. Measurements will be taken after each task and during post-test interviews to gather qualitative insights and suggestions for improvements.
 
