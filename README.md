@@ -294,49 +294,283 @@ Todoist is a popular task management app that allows users to create tasks, set 
 
 ## User manual
 
-### User Manual for Meplan
+**Table of Contents**
 
-Table of Contents
+1.Introduction
+
+2.Getting Started
+ - 2.1 Accessing the Web Page
+
+3.Homework Check-list
+ - 3.1 Adding Homework Tasks
+ - 3.2 Editing or Deleting Homework Entries
+ - 3.3 Setting Dates and Priorities
+
+4.Check-list
+ - 4.1 Adding Check-list Items
+ - 4.2 Editing or Deleting Check-list Entries
+
+5.Google Calendar Integration
+ - 5.1 Linking Google Calendar
+ - 5.2 Viewing Google Calendar Events
+
+6.Grade Calculator
+ - 6.1 Entering Course Information
+ - 6.2 Calculating and Tracking Grades
+
+7.Troubleshooting
+7.1 Common Issues and Solutions
+
+
 
 1. Introduction
-   
-2.Getting Started
 
-  2.1 Accessing the Web Page
+   MePlan is your all-in-one digital planner, meticulously designed to empower students to effortlessly manage their homework, assignments, and academic responsibilities. With a user-friendly interface and a host of innovative features, MePlan is here to revolutionize the way you approach your studies, helping you achieve your academic goals with ease and confidence. Say goodbye to the days of missed deadlines and last-minute cramming – MePlan is here to help you stay organized and in control of your academic journey.
 
-3. Homework tracker
 
-  3.1 Adding Homework Tasks
+2. Getting Started
 
-  3.2 Editing or Deleting Homework Entries
+You won't need to go through the hassle of downloading or installing any software. Here's how to access the MePlan web page:
 
-  3.3 Setting Dates and Priorities
+2.1 Accessing the Web Page
+  To get started with MePlan, follow these simple steps to access the web page:
+ - Open Your Web Browser: Launch your web browser (e.g., Chrome, Firefox, Safari).
+ - Go to the MePlan Website: Type "CS-HCI-Group8.github.io" 
+ - Create an Account (If Needed): If it's your first time using MePlan, you may need to sign up by providing your name, email, and creating a password.
+ - Log In (For Returning Users): If you've used MePlan before, just enter your email and password to log in.
 
-4. To-do list
-   
-  4.1 Adding Check-list Items
+3. Homework Check-list
 
-  4.2 Editing or Deleting Check-list Entries
+ - 3.1 Adding Homework Tasks
 
-5. Google Calendar Integration
-   
-  5.1 Linking Google Calendar
-  
-  5.2 Viewing Google Calendar Events
-  
-6. Grade Calculator
-   
-  6.1 Entering Course Information
-  6.2 Calculating and Tracking Grades
-  
+ To add a homework task to your planner, follow these steps:
+ Click on the "Homework Planner" tab on the main menu.
+You will see an "Add Task" button. Click on it.
+A new task entry form will appear. Enter the task description in the provided text field.
+Next, select the due date from the calendar picker. This sets the task's due date.
+To set the priority of the task, use the priority dropdown menu (e.g., High, Medium, Low).
+Once you've filled in the task details, click the "Add Task" button to save it.
+3.2 Editing or Deleting Homework Entries
+If you need to edit or delete a homework entry, follow these steps:
+Go to the "Homework Planner" tab.
+Locate the task you want to edit or delete.
+To edit, click on the task. The task details will become editable. Make your changes and click "Save."
+To delete, click the trash icon next to the task. Confirm the deletion when prompted.
+3.3 Setting Dates and Priorities
+You can easily set dates and priorities for your homework tasks:
+To set or change a due date, click on the task, and then use the calendar picker to select a new date.
+To adjust the priority, click on the task, and then use the priority dropdown to choose a new priority level.
+
+
+4. Check-list
+Explain the use of the quick reminder check-list.
+4.1 Adding Check-list Items
+Provide instructions on adding items to the check-list.
+4.2 Editing or Deleting Check-list Entries
+Explain how to edit or delete check-list entries.
+6. Google Calendar Integration
+Describe how to integrate Google Calendar with your system.
+5.1 Linking Google Calendar
+Provide a step-by-step guide on how users can connect their Google Calendar.
+5.2 Viewing Google Calendar Events
+Explain how users can view Google Calendar events within your system.
+7. Grade Calculator
+Explain how to use the grade calculator tool.
+6.1 Entering Course Information
+Describe how to input course information for grade calculation.
+6.2 Calculating and Tracking Grades
+Detail the process for calculating and tracking grades.
+8. Troubleshooting
 7. Troubleshooting
-   
-  7.1 Common Issues and Solutions
+While our system is designed to work seamlessly, you might encounter some common issues. Here are potential problems and their solutions:
+
+7.1 Common Issues and Solutions
+Issue 1: Unable to Access the Web Page
+Solution:
+Check your internet connection to ensure you're online.
+Clear your browser cache and cookies.
+Try accessing the web page from a different browser.
+If the issue persists, our servers may be temporarily down; please try again later.
+Issue 2: Can't Connect to Google Calendar
+Solution:
+Ensure that you are logged into the correct Google account.
+Verify that you've granted the necessary permissions for calendar integration.
+Reconnect your Google Calendar in the "Google Calendar Integration" settings.
+Issue 3: Missing Homework Entries
+Solution:
+Check your "Homework Planner" tab to make sure you're looking at the right date range.
+Verify that you didn't accidentally delete the tasks.
+If you still can't find the tasks, it's possible that they were not saved correctly. Re-enter them.
+Issue 4: Grade Calculator Error
+Solution:
+Double-check that you've correctly entered all the necessary information for your courses.
+Make sure you're using the right grading scale (e.g., percentage, letter grades).
+If the problem persists, try refreshing the "Grade Calculator" page.
+Issue 5: Slow System Performance
+Solution:
+Close any unnecessary browser tabs or applications that might be consuming system resources.
+Clear your browser cache to improve loading times.
+If you continue to experience slow performance, consider using the latest version of your web browser.
+
 
 ## User population
 
+
+To ensure the usability test session aligns with the user segments defined in the project proposal, which aim for college students, it's important to describe the user population 
+
+for the test session accordingly. Here's a description of the user population for the usability test:
+
+
+The user population for the usability test comprises college students and students in general who are potential users of the Meplan Homework Tracker Website. These users represent the primary target audience for the application, and the evaluation aims to ensure that it meets their needs effectively.
+
+**Inclusivity of User Segments:**
+1. **College Students:** This group includes undergraduate and graduate students pursuing various academic disciplines. They may have different levels of technical proficiency and are expected to use the Meplan website for tracking homework assignments, managing academic deadlines, and improving their time management skills.
+
+2. **High School Students:** High school students form a significant portion of the user population, as they are often introduced to academic planning and assignment tracking early on. Their needs and familiarity with digital tools may vary, and the evaluation should consider their requirements.
+
+3. **General Students:** This category encompasses students of various age groups and educational backgrounds who may require homework and task tracking tools for self-improvement, lifelong learning, or professional development.
+
+**Diversity in Academic Majors:**
+The user population represents a diverse range of academic majors, including but not limited to arts, sciences, engineering, humanities, and more. This diversity reflects the broad applicability of the Meplan Homework Tracker Website to students across different disciplines.
+
+**Technical Proficiency:**
+Users may have varying levels of technical proficiency, ranging from tech-savvy individuals to those with limited experience in using digital tools for academic purposes. The usability test aims to evaluate the website's accessibility and ease of use for users with different technical backgrounds.
+
+**Device and Platform Preferences:**
+The user population may access the Meplan website through various devices, including laptops, desktops, tablets, and mobile phones. The usability test should consider the compatibility and responsiveness of the website on different platforms.
+
+**Academic Stages:**
+Users may be in different academic stages, such as freshmen, sophomores, juniors, seniors, and graduate students. The website should cater to the specific needs and challenges associated with these stages, and the evaluation will assess its suitability for users at different points in their academic journeys.
+
+**Varied User Goals:**
+The user population has a range of goals, including tracking homework assignments, managing academic deadlines, improving productivity, and achieving better academic results. The usability test will evaluate the website's ability to help users meet these goals effectively.
+
+By ensuring the usability test includes participants from these user segments, the evaluation will provide valuable insights into how well the Meplan Homework Tracker Website meets the diverse needs of college students and students in general. It will help identify areas for improvement to create a more inclusive and user-friendly platform for the target audience.
+
+
+
+
 ## Usability goals: 
 
+• **Learnability and Navigation:**
+   - *Goal:* The system should be intuitive for new users, allowing them to perform essential tasks with ease within 30 minutes of use. This encompasses tasks like adding assignments, setting due dates, and marking assignments as complete.
+
+
+• **Efficiency:**
+   - *Goal:* The system should empower users to efficiently manage assignments. Users should be able to add a new assignment, set a due date, and categorize it in under 2 minutes, ensuring that the platform supports quick and productive task management.
+
+
+• **Error Minimization:**
+   - *Goal:* The system should be designed to minimize user errors. Users should make no more than 2 errors while using the system during a 30-minute session, promoting a frustration-free experience.
+
+
+• **User Satisfaction:**
+   - *Goal:* The system should provide a positive user experience that aligns with students' needs. Users should rate their overall
+
+
+• **Task Completion:**
+   - *Goal:* Users should be able to complete common tasks without difficulty. The following tasks should be accomplishable by 90% of users within a set time frame:
+
 ## Usability Evaluation
+
+**1. Number of Examiners:**
+   - One examiner is typically sufficient for conducting a usability test. However, for larger-scale tests or complex systems, consider having two examiners, one to facilitate and one to take notes.
+
+**2. Equipment for Examiners:**
+   - Laptop or computer for running the test
+   - Audio/video recording equipment (if needed)
+   - Stopwatches or timing tools
+   - Notepads and pens for taking notes
+   - User interface testing software (if applicable)
+   - Test script or checklist
+   - Prototyping software (if applicable)
+   - Copies of the usability test tasks and questions
+
+**3. Handling the Prototype:**
+   - Ensure the prototype is fully functional and accessible.
+   - Provide any necessary documentation, including a user manual or task list.
+   - Make sure that the prototype is installed and set up on the testing equipment before the test.
+
+**4. Instructions for Examiners:**
+   - Examiners should familiarize themselves with the test script, objectives, and usability goals.
+   - Examiners should be trained on the use of recording equipment and any software tools.
+   - Examiners should maintain a neutral and non-intrusive presence during the test, only intervening if necessary or requested by the test participant.
+
+**5. Treatment of Test Subjects:**
+   - Examiners should greet the test subjects in a friendly and welcoming manner.
+   - Inform test subjects about the purpose of the test, emphasizing that it's the system being tested, not their abilities.
+   - Assure test subjects that there are no right or wrong answers and that their feedback is invaluable.
+
+**6. What Examiners Should Avoid Doing:**
+   - Examiners should avoid offering hints or suggestions to the test subjects during the test.
+   - Examiners should not influence the test subjects' decisions or actions.
+   - Examiners should avoid making judgmental or critical comments about the test subjects' performance.
+
+**7. What Examiners Should Avoid Telling Test Subjects:**
+   - Examiners should not disclose the specific usability goals or expected user behavior to the test subjects, as this might bias their responses.
+   - Examiners should not provide the test subjects with solutions to problems they encounter during the test.
+
+**8. What/How/When to Measure:**
+   - Measure task completion time for each usability task.
+   - Record the number of task errors and issues encountered by test subjects.
+   - Collect subjective feedback through post-test questionnaires or interviews.
+   - Document any observations about user behavior, expressions, and comments during the test.
+   - Capture video and audio recordings of the test sessions for later analysis.
+
+**9. Test Execution:**
+   - Examiners should follow the usability test script, presenting each task to the test subjects in the defined order.
+   - Examiners should encourage test subjects to "think aloud" during the test, sharing their thought process and feelings as they interact with the system.
+   - Examiners should monitor and record task completion, errors, and user feedback during the test.
+   - Examiners should remain unobtrusive but be ready to assist test subjects if they encounter significant difficulties.
+
+By following this detailed usability test procedure, an independent team should be well-prepared to conduct the test, gather useful data, and assess the usability of the system effectively. This procedure covers the essentials, ensuring a smooth and informative usability testing process.
+
+# Usability Evaluation
+
+*Usability Evaluation Plan for Meplan Homework Tracker Website**
+
+**1. Introduction:**
+   - Provide an overview of the Meplan Homework Tracker Website and its purpose.
+   - Specify the objectives of the usability evaluation.
+
+**2. Methodology:**
+   - **Evaluation Type:** This evaluation will be a **Heuristic Evaluation** based on Jakob Nielsen's usability heuristics.
+   - **Participants:** Experienced usability experts or evaluators will conduct the assessment.
+   - **Evaluation Tools:** Evaluators will use a computer or mobile device to access the Meplan website, note-taking materials, and Nielsen's heuristics for reference.
+   - **Evaluation Environment:** Evaluators will work in a controlled and quiet environment to ensure focused assessments.
+
+**3. Usability Heuristics:**
+   - Evaluators will refer to Jakob Nielsen's list of usability heuristics, which includes principles such as visibility of system status, match between the system and the real world, user control and freedom, etc. The evaluation will address how well Meplan adheres to these principles.
+
+**4. Criteria to be Assessed:**
+   - The following criteria will be assessed based on the usability heuristics:
+     1. **Visibility of System Status:** How well does Meplan provide feedback to users about their task progress and the system's current status?
+     2. **Match between System and Real World:** To what extent does Meplan use language, concepts, and workflows that are familiar to students and teachers?
+     3. **User Control and Freedom:** How easily can users navigate and modify their homework assignments without errors or complex procedures?
+     4. **Consistency and Standards:** Does Meplan adhere to consistent design standards, both within the application and in the context of educational tools?
+     5. **Error Prevention:** To what extent does Meplan help users avoid mistakes or provide guidance for error recovery?
+     6. **Recognition Rather than Recall:** Does Meplan minimize the need for users to memorize information by making it visible and easily accessible?
+     7. **Flexibility and Efficiency of Use:** How well does Meplan accommodate students of varying ages and technological expertise?
+     8. **Aesthetic and Minimalist Design:** Is Meplan visually appealing and free from unnecessary clutter?
+     9. **Help Users Recognize, Diagnose, and Recover from Errors:** How effectively does Meplan assist users in understanding and correcting errors?
+     10. **Help and Documentation:** To what extent does Meplan provide easily accessible help and documentation for users?
+
+**5. Evaluation Process:**
+   - Each evaluator will individually assess Meplan, recording specific issues and concerns related to the criteria and heuristics.
+   - Evaluators will work independently to avoid group bias.
+   - After the individual assessments, evaluators will convene to discuss their findings and reach a consensus on identified usability problems and areas for improvement.
+
+**6. Reporting:**
+   - The evaluation results will be documented in a comprehensive report, highlighting usability issues, recommendations for improvements, and their severity levels.
+   - Each issue will be linked to the specific heuristic(s) it violates.
+
+**7. Actionable Recommendations:**
+   - The report will provide actionable recommendations for design enhancements and improvements to address the identified usability issues.
+
+**8. Timeline:**
+   - Specify the timeline for the evaluation process, including evaluation dates, discussion sessions, and the delivery of the final report.
+
+By following this usability evaluation plan, independent evaluators will be able to conduct a thorough assessment of the Meplan Homework Tracker Website, identifying usability issues and providing actionable recommendations to enhance the user experience for students and teachers.
+
 
 
