@@ -287,12 +287,11 @@ Todoist is a popular task management app that allows users to create tasks, set 
    - *Task:* Users should be able to set up assignment reminders or notifications effortlessly and should successfully receive a test notification as a confirmation.
 
 
+
 # Deliverable #3 (A&B): High fidelity prototype and evaluation plan
 
 
-## Prototype Implementation:
-
-## User manual
+## User manual:
 
 **Table of Contents**
 
@@ -319,50 +318,71 @@ Todoist is a popular task management app that allows users to create tasks, set 
  - 6.2 Calculating and Tracking Grades
 
 7.Troubleshooting
-7.1 Common Issues and Solutions
+ - 7.1 Common Issues and Solutions
 
 
 
-1. Introduction
+**1. Introduction**
 
    MePlan is your all-in-one digital planner, meticulously designed to empower students to effortlessly manage their homework, assignments, and academic responsibilities. With a user-friendly interface and a host of innovative features, MePlan is here to revolutionize the way you approach your studies, helping you achieve your academic goals with ease and confidence. Say goodbye to the days of missed deadlines and last-minute cramming – MePlan is here to help you stay organized and in control of your academic journey.
 
 
-2. Getting Started
+**2. Getting Started**
 
 You won't need to go through the hassle of downloading or installing any software. Here's how to access the MePlan web page:
 
 2.1 Accessing the Web Page
+ 
   To get started with MePlan, follow these simple steps to access the web page:
+  
  - Open Your Web Browser: Launch your web browser (e.g., Chrome, Firefox, Safari).
  - Go to the MePlan Website: Type "CS-HCI-Group8.github.io" 
  - Create an Account (If Needed): If it's your first time using MePlan, you may need to sign up by providing your name, email, and creating a password.
  - Log In (For Returning Users): If you've used MePlan before, just enter your email and password to log in.
 
-3. Homework Check-list
 
- - 3.1 Adding Homework Tasks
+**3. Homework Check-list**
+
+3.1 Adding Homework Tasks
 
  To add a homework task to your planner, follow these steps:
- Click on the "Homework Planner" tab on the main menu.
-You will see an "Add Task" button. Click on it.
-A new task entry form will appear. Enter the task description in the provided text field.
-Next, select the due date from the calendar picker. This sets the task's due date.
-To set the priority of the task, use the priority dropdown menu (e.g., High, Medium, Low).
-Once you've filled in the task details, click the "Add Task" button to save it.
+ 
+ - Click on the "Homework Planner" tab on the main menu.
+
+   You will see an "Add Task" button. Click on it.
+
+   A new task entry form will appear. Enter the task description in the provided text field.
+
+   Next, select the due date from the calendar picker. This sets the task's due date.
+ 
+ - To set the priority of the task, use the priority dropdown menu (e.g., High, Medium, Low).
+
+   Once you've filled in the task details, click the "Add Task" button to save it.
+
+
 3.2 Editing or Deleting Homework Entries
+
 If you need to edit or delete a homework entry, follow these steps:
-Go to the "Homework Planner" tab.
-Locate the task you want to edit or delete.
-To edit, click on the task. The task details will become editable. Make your changes and click "Save."
-To delete, click the trash icon next to the task. Confirm the deletion when prompted.
+
+ - Go to the "Homework Planner" tab.
+
+   Locate the task you want to edit or delete.
+
+ - To edit, click on the task. The task details will become editable. Make your changes and click "Save."
+
+ - To delete, click the trash icon next to the task. Confirm the deletion when prompted.
+
 3.3 Setting Dates and Priorities
+
 You can easily set dates and priorities for your homework tasks:
-To set or change a due date, click on the task, and then use the calendar picker to select a new date.
-To adjust the priority, click on the task, and then use the priority dropdown to choose a new priority level.
+
+ - To set or change a due date, click on the task, and then use the calendar picker to select a new date.
+
+ - To adjust the priority, click on the task, and then use the priority dropdown to choose a new priority level.
 
 
-4. Check-list
+**4. Check-list**
+
 Explain the use of the quick reminder check-list.
 4.1 Adding Check-list Items
 Provide instructions on adding items to the check-list.
