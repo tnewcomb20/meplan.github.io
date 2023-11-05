@@ -513,7 +513,7 @@ Examiners should treat participants with respect and remain neutral. They should
 
 Examiners should avoid leading participants or suggesting solutions to problems they encounter. They should refrain from interrupting users during tasks and maintain a non-biased, non-judgmental demeanor throughout the session. Examiners should also avoid making personal comments or expressing their own opinions about the app.
 
- -**What should the examiners avoid telling the test subjects?**
+ - **What should the examiners avoid telling the test subjects?**
 
 Examiners should not reveal specific information about the app's features, objectives, or the goals of the usability test. This ensures that users provide unbiased feedback based on their natural interactions with the app.
 
