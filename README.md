@@ -489,11 +489,11 @@ By ensuring the usability test includes participants from these user segments, t
 
 ## Usability Evaluation
 
- - **How many examiners are required?**
+- **How many examiners are required?**
 
 We will have a team of 3-5 examiners for this usability test. Each examiner will have a specific role, including moderator, observers, and one technical support expert. This team composition ensures a comprehensive evaluation of the website's usability and helps in efficient data collection.
 
- -** What equipment will the examiners need?**
+- **What equipment will the examiners need?**
 
 Examiners will need laptops or computers. 
 
