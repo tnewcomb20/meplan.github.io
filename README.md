@@ -523,13 +523,10 @@ Examiners will measure task completion rates, time on task, and user satisfactio
 
 # Usability Evaluation
 
-A usability evaluation plan specific to MePlan, the digital planner software, would be tailored to its features and functionality. Here's an example of a usability evaluation plan for MePlan:
-
 ## MePlan Usability Evaluation Plan
 
 ### Project Overview
-- **Project Name:** MePlan Usability Evaluation
-- **Project Goals:** Assess the usability and user-friendliness of the MePlan digital planner application.
+- **Project Goals:** Assess the usability and user-friendliness of the MePlan digital planner website.
 - **Project Description:** MePlan is designed to help students manage their homework, assignments, academic responsibilities, and integrate with Google Calendar. The evaluation aims to identify usability issues and gather user feedback for improvements.
 
 ### Usability Evaluation Objectives
@@ -540,14 +537,12 @@ A usability evaluation plan specific to MePlan, the digital planner software, wo
 ### Scope and Focus
 - **Product/Service Scope:**
   - Evaluate all key features of MePlan, including Homework Planner, Checklist, Google Calendar Integration, and Grade Calculator.
-- **User Types:**
-  - Participants will include students, educators, and administrators.
 - **Key Tasks:**
   - Participants will be asked to create homework tasks, add checklist items, link Google Calendar, and calculate grades.
 
 ### Evaluation Methods
 - **Usability Testing:**
-  - Conduct individual usability testing sessions with 10 participants (a mix of students, educators, and administrators).
+  - Conduct individual usability testing sessions with 10 participants( Willamette university students)
   - Sessions will last approximately 30 minutes.
 - **Heuristic Evaluation:**
   - Conduct a heuristic evaluation with a team of usability experts to identify potential issues.
@@ -556,7 +551,7 @@ A usability evaluation plan specific to MePlan, the digital planner software, wo
 
 ### Participants
 - **Recruitment:**
-  - Participants will be recruited through various educational institutions and online platforms.
+  - participants will be recruited from Willamette University and all participants must be current students of Willamette University.
   - A diverse group of participants will be selected to represent different user demographics.
 - **Informed Consent:**
   - Participants will be provided with information about the evaluation and asked to provide informed consent.
@@ -565,9 +560,7 @@ A usability evaluation plan specific to MePlan, the digital planner software, wo
 - **Test Scenarios:**
   - Create test scenarios that involve typical user interactions with MePlan, such as adding homework tasks and integrating Google Calendar.
 - **Questionnaires:**
-  - Develop questionnaires to collect user feedback on their experience with MePlan.
-- **User Profiles:**
-  - Create user profiles representing the different roles involved (students, educators, administrators).
+  - Develop questionnaires to collect user feedback on their experience with Meplan.
 
 ### Data Collection
 - **Data Recording:**
@@ -590,16 +583,13 @@ A usability evaluation plan specific to MePlan, the digital planner software, wo
 - **Recommendations:**
   - Provide recommendations for addressing identified usability issues and enhancing the user experience.
 
-### Budget and Resources
-- **Budget:**
-  - Allocate budget for participant compensation, usability testing tools, and analysis software.
+### Resources
 - **Tools and Equipment:**
-  - Ensure availability of devices for testing, usability software, and facilities for conducting evaluations.
+  - Ensure availability of devices for testing(laptop and computer), usability software, and facilities for conducting evaluations.
 
 ### Ethical Considerations
 - **Privacy and Consent:**
   - Adhere to ethical guidelines regarding participant privacy and obtain informed consent.
-- **Data Security:**
   - Ensure the secure storage and handling of participant data.
 
 ### Risk Assessment
@@ -608,13 +598,6 @@ A usability evaluation plan specific to MePlan, the digital planner software, wo
 - **Mitigation Plans:**
   - Have backup participants, technical support, and contingency plans in place.
 
-### Approval and Sign-off
-- **Project Manager:**
-  - [Name of the project manager approving the plan]
-- **Date:**
-  - [Date of plan approval]
-
-This tailored usability evaluation plan for MePlan ensures a structured and focused approach to assess the application's usability and gather valuable feedback for enhancements. It accounts for the specific features and functionalities of MePlan, the target user groups, and ethical considerations.
 
 
 
