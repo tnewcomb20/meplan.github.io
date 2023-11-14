@@ -396,7 +396,7 @@ You can easily set dates and priorities for your homework tasks:
 
 **6.Troubleshooting**
 
-While our system is designed to work seamlessly, you might encounter some common issues. Here are potential problems and their solutions:
+you might encounter some common issues, here are potential problems and their solutions:
 
 **6.1 Common Issues and Solutions**
 
@@ -472,7 +472,7 @@ By ensuring the usability test includes participants from these user segments, t
 
 
 • **Efficiency:**
-   - *Goal:* The system should empower users to efficiently manage assignments. Users should be able to add a new assignment, set a due date, and categorize it in under 2 minutes, ensuring that the platform supports quick and productive task management.
+   - *Goal:* The system should efficiently manage assignments. Users should be able to add a new assignment, set a due date, and categorize it in under 2 minutes, ensuring that the platform supports quick and productive task management.
 
 
 • **Error Minimization:**
@@ -514,11 +514,8 @@ Examiners should avoid leading participants or suggesting solutions to problems 
 
  - **What should the examiners avoid telling the test subjects?**
 
-Examiners should not reveal specific information about the app's features, objectives, or the goals of the usability test. This ensures that users provide unbiased feedback based on their natural interactions with the app.
+Examiners should not reveal specific information about the app's features, objectives, or the goals of the usability test. This ensures that users provide unbiased feedback based on their natural interactions with the website.
 
- - **What/How/When should the examiners measure?**
-
-Examiners will measure task completion rates, time on task, and user satisfaction through a post-test questionnaire. They will also record user interactions with the app through screen recordings. Measurements will be taken after each task and during post-test interviews to gather qualitative insights and suggestions for improvements.
 
 # Usability Evaluation
 
@@ -527,20 +524,10 @@ Examiners will measure task completion rates, time on task, and user satisfactio
   - Evaluate the ease of use and effectiveness of key features (homework planner, checklist, Google Calendar integration, and grade calculator).
   - Identify common usability issues and potential areas for improvement.
 
-### Scope and Focus
-- **Product/Service Scope:**
-  - Evaluate all key features of MePlan, including Homework Planner, Checklist, Google Calendar Integration, and Grade Calculator.
-- **Key Tasks:**
-  - Participants will be asked to create homework tasks, add checklist items, link Google Calendar, and calculate grades.
-
 ### Evaluation Methods
 - **Usability Testing:**
   - Conduct individual usability testing sessions with 10 participants( Willamette university students)
   - Sessions will last approximately 30 minutes.
-- **Heuristic Evaluation:**
-  - Conduct a heuristic evaluation with a team of usability experts to identify potential issues.
-- **Surveys/Questionnaires:**
-  - Administer post-test surveys to collect user feedback on overall satisfaction and user experience.
 
 ### Participants
 - **Recruitment:**
@@ -559,22 +546,6 @@ Examiners will measure task completion rates, time on task, and user satisfactio
 - **Data Recording:**
   - Record usability test sessions using video and audio.
   - Collect notes and observations during heuristic evaluations.
-- **Data Analysis:**
-  - Analyze user feedback, usability issues, and completion times for tasks.
-- **Metrics:**
-  - Utilize metrics like task completion rate, time on task, and user satisfaction scores.
-
-### Timeline
-- **Scheduling:**
-  - Usability testing and heuristic evaluation will be conducted over a two-week period.
-- **Responsibilities:**
-  - Assign roles and responsibilities to team members, including test facilitators, note-takers, and analysts.
-
-### Reporting and Recommendations
-- **Report Format:**
-  - Create a comprehensive usability evaluation report summarizing findings, issues, and recommendations.
-- **Recommendations:**
-  - Provide recommendations for addressing identified usability issues and enhancing the user experience.
 
 ### Resources
 - **Tools and Equipment:**
@@ -589,7 +560,7 @@ Examiners will measure task completion rates, time on task, and user satisfactio
 - **Potential Risks:**
   - Risks may include scheduling conflicts, technical issues, or participant dropouts.
 - **Mitigation Plans:**
-  - Have backup participants, technical support, and contingency plans in place.
+  - Have backup participants and technical support.
 
 
 
