@@ -324,9 +324,8 @@ Todoist is a popular task management app that allows users to create tasks, set 
 
 **1. Introduction**
 
-   MePlan is your all-in-one digital planner, meticulously designed to empower students to effortlessly manage their homework, assignments, and academic responsibilities. With a user-friendly interface and a host of innovative features, MePlan is here to revolutionize the way you approach your studies, helping you achieve your academic goals with ease and confidence. Say goodbye to the days of missed deadlines and last-minute cramming – MePlan is here to help you stay organized and in control of your academic journey.
-
-
+   MePlan is your all-in-one digital planner, meticulously designed to help students to manage their homework, assignments, and academic responsibilities with a user-friendly interface. 
+   
 **2. Getting Started**
 
 You won't need to go through the hassle of downloading or installing any software. Here's how to access the MePlan web page:
