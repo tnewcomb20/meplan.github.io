@@ -538,7 +538,7 @@ Examiners should not reveal specific information about the website's features, o
 ### Data Collection
 - **Data Recording:**
   - Record usability test sessions using video and audio.
-  - Collect notes and observations during heuristic evaluations.
+  - Collect notes and observations.
 
 ### Resources
 - **Tools and Equipment:**
