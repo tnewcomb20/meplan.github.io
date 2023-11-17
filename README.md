@@ -457,13 +457,6 @@ Users may have varying levels of technical proficiency, ranging from tech-savvy 
 **Academic Stages:**
 Users may be in different academic stages, such as freshmen, sophomores, juniors, and seniors. The website should cater to the specific needs and challenges associated with these stages, and the evaluation will assess its suitability for users at different points in their academic journeys.
 
-**Varied User Goals:**
-The user population has a range of goals, including tracking homework assignments, managing academic deadlines, improving productivity, and achieving better academic results. The usability test will evaluate the website's ability to help users meet these goals effectively.
-
-By ensuring the usability test includes participants from these user segments, the evaluation will provide valuable insights into how well the Meplan Homework Tracker Website meets the diverse needs of college students and students in general. It will help identify areas for improvement to create a more inclusive and user-friendly platform for the target audience.
-
-
-
 
 ## Usability goals: 
 
@@ -490,7 +483,7 @@ By ensuring the usability test includes participants from these user segments, t
 
 - **How many examiners are required?**
 
-We will have a team of 3-5 examiners for this usability test. Each examiner will have a specific role, including moderator, observers, and one technical support expert. This team composition ensures a comprehensive evaluation of the website's usability and helps in efficient data collection.
+We will have a team of 3 examiners for this usability test. 
 
 - **What equipment will the examiners need?**
 
@@ -502,19 +495,19 @@ Examiners should refer to a detailed user manual provided for the prototype. The
 
  - **How will you instruct your examiners to proceed?**
 
-Examiners should follow a predefined script when introducing the test to participants. They should explain the purpose of the test, reassure participants that their feedback is valuable, and ask them to think aloud as they interact with the app. Examiners should guide participants through specific tasks, such as creating an account and connect to google calendar.
+Examiners should follow a predefined script when introducing the test to participants. They should explain the purpose of the test, reassure participants that their feedback is valuable. Examiners should guide participants through specific tasks, such as creating an account and connect to google calendar.
 
  - **How should the examiners treat the test subjects, what should they tell them?**
 
-Examiners should treat participants with respect and remain neutral. They should explain that they are here to evaluate the app, not the users' abilities. Participants should be told to perform tasks as they normally would and to speak their thoughts aloud, expressing any difficulties or confusion they encounter.
+Examiners should treat participants with respect and remain neutral. They should explain that they are here to evaluate the website, not the users' abilities. Participants should be told to perform tasks as they normally would, expressing any difficulties or confusion they encounter.
 
  - **What should the examiners avoid doing?**
 
-Examiners should avoid leading participants or suggesting solutions to problems they encounter. They should refrain from interrupting users during tasks and maintain a non-biased, non-judgmental demeanor throughout the session. Examiners should also avoid making personal comments or expressing their own opinions about the app.
+Examiners should avoid leading participants or suggesting solutions to problems they encounter. They should refrain from interrupting users during tasks and maintain a non-biased, non-judgmental demeanor throughout the session. Examiners should also avoid making personal comments or expressing their own opinions about the website.
 
  - **What should the examiners avoid telling the test subjects?**
 
-Examiners should not reveal specific information about the app's features, objectives, or the goals of the usability test. This ensures that users provide unbiased feedback based on their natural interactions with the website.
+Examiners should not reveal specific information about the website's features, objectives, or the goals of the usability test. This ensures that users provide unbiased feedback based on their natural interactions with the website.
 
 
 # Usability Evaluation
