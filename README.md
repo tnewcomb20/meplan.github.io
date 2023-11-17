@@ -290,6 +290,9 @@ Todoist is a popular task management app that allows users to create tasks, set 
 
 # Deliverable #3 (A&B): High fidelity prototype and evaluation plan
 
+## Low-Fidelity Prototype
+
+https://github.com/CS-HCI-Group8/CS-HCI-Group8.github.io
 
 ## User manual:
 
