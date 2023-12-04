@@ -559,5 +559,58 @@ Examiners should not reveal specific information about the website's features, o
   - Have backup participants and technical support.
 
 
+# Deliverable #5
+ 
+Our UI/UX design study outline
+
+Title: Evaluating Key Features in a Planner Web App
+
+Abstract: (typically do last)
+
+Introduction:
+There are a plethora of digital planners to choose from in the modern age, which come in all aesthetics and with various combinations of interesting features. Planners help us keep track of our work and our lives, often allowing us to do more and do better, while staying sane. We can confide in and refer back to them to know what to do throughout the day if we ever feel lost or aimless. Meditating on what planners are and how we use them, one may find that the story and the psychology is often quite complex. Two common pitfalls of planner use are writing down and crossing off trivial things to create the illusion of progress, and failing to begin at all and resigning to “keep in one’s head” because one doesn’t know how to break down and prioritize their workload. So, we are designing a planner web app that anticipates users’ challenges, sets realistic goals, and efficiently allocates resources.
+A planner is a deeply personal interface, and as such, should have a high degree of personalization. That’s why, in our implementation, every color on the site is changeable from a menu, without exception. A planner should also be able to display the user generated content in a variety of formats and time scales so they can find a perspective that gives them the insights they need. That’s why, in our implementation, you can either add tasks on a todo list, or as events on an embedded calendar.
+
+Related work:
+Notion, Todoist, Any.do, Things 3, and Evernote seem to top the market for dedicated planner apps. Critically reading their raving reviews can hint at what kind of use and satisfaction users get out of these apps.
+
+Methodology:
+Our methodology for this study was to conduct a usability test with a handful of users to gain feedback. We collected two pieces of data: comments, and satisfaction. We measure satisfaction on a scale of 1-5 at the end of the session.
+
+
+Results/Findings:
+User
+Comments
+Satisfaction
+User 1
+
+
+
+
+User 2
+
+
+
+
+User 3
+
+
+
+
+
+
+
+Discussion/Analysis:
+Our main observations after testing with users are as follows.
+
+Conclusion:
+???
+
+References:
+Oinas-Kukkonen & Harjumas’s 14 Persuasive Design Guidelines
+
+
+
+
 
 
