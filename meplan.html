@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MEPLAN</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap">
+    <script src="https://cdn.jsdelivr.net/npm/interactjs@1.10.11/dist/interact.min.js"></script>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #c9d6c3; /* Sage green */
+            color: #29573a; /* Dark green for text */
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        .header {
+            background-color: #5f847a; /* Darker Sage green */
+            padding: 20px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 2em;
+            color: #ffffff; /* White */
+        }
+
+        .header h1 span {
+            color: #29573a; /* Dark green for MEPLAN */
+        }
+
+        .page-content {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: space-between;
+        }
+
+        /* Adjusted width for side-by-side cards */
+        .card {
+            background-color: #ffffff; /* White */
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            width: calc(50% - 20px); /* 50% width with gap */
+            box-sizing: border-box;
+            transition: transform 0.3s ease;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        /* Google Calendar card takes 100% width */
+        .calendar-container {
+            width: calc(100% - 20px);
+            margin: 20px;
+            padding: 20px;
+            background-color: #ffffff; /* White */
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-content {
+            padding: 20px;
+            color: #29573a; /* Dark green for card content */
+        }
+
+        textarea {
+            width: calc(100% - 20px);
+            height: 120px;
+            margin-bottom: 15px;
+            padding: 10px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        button {
+            background-color: #5f847a; /* Darker Sage green */
+            color: #ffffff;
+            padding: 10px 15px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #4c6c63; /* Dark Sage green */
+        }
+
+        .calendar-button {
+            background-color: #5f847a; /* Darker Sage green */
+            color: #ffffff;
+            padding: 10px 15px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .calendar-button:hover {
+            background-color: #4c6c63; /* Dark Sage green */
+        }
+
+        .calendar-iframe {
+            display: none;
+            width: 100%;
+            height: 400px;
+            border: solid 1px #777;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header class="header">
+            <h1><span>MEPLAN</span></h1>
+        </header>
+        <div class="page-content">
+            <!-- Homework Tracker Section -->
+            <div class="card" id="homeworkTrackerCard">
+                <div class="card-content">
+                    <h2>Homework Tracker</h2>
+                    <label for="homework-input">Homework:</label>
+                    <input type="text" id="homework-input" placeholder="Enter your homework">
+                    <label for="date-input">Date:</label>
+                    <input type="date" id="date-input">
+                    <label for="priority-input">Priority:</label>
+                    <select id="priority-input">
+                        <option value="low">Low</option>
+                        <option value="medium">Medium</option>
+                        <option value="high">High</option>
+                    </select>
+                    <button onclick="addHomework()">Add Homework</button>
+                    <ul id="homework-list"></ul>
+                </div>
+            </div>
+
+            <!-- Quick Notes Section -->
+            <div class="card" id="quickNotesCard">
+                <div class="card-content">
+                    <h2>Quick Notes</h2>
+                    <textarea id="quickNote" placeholder="Type your quick note or reminder here..."></textarea>
+                    <button onclick="saveNote()">Save Note</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Google Calendar Section -->
+        <div class="card calendar-container" id="googleCalendarCard">
+            <div class="card-content">
+                <h2>Google Calendar</h2>
+                <button class="calendar-button" onclick="toggleCalendar()">Show Google Calendar</button>
+                <iframe class="calendar-iframe" id="googleCalendar"
+                        src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=d25ld2NvbWJAd2lsbGFtZXR0ZS5lZHU&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%2333B679&color=%230B8043"
+                        frameborder="0" scrolling="no"></iframe>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        interact('.card')
+            .draggable({
+                inertia: true,
+                modifiers: [
+                    interact.modifiers.restrictRect({
+                        restriction: 'parent',
+                        endOnly: true,
+                    }),
+                ],
+            })
+            .resizable({
+                edges: { left: false, right: false, bottom: true, top: true },
+                restrictEdges: {
+                    outer: 'parent',
+                    endOnly: true,
+                },
+            })
+            .on('resizemove', function (event) {
+                var target = event.target;
+                var x = parseFloat(target.getAttribute('data-x')) || 0;
+                var y = parseFloat(target.getAttribute('data-y')) || 0;
+
+                target.style.width = event.rect.width + 'px';
+                target.style.height = event.rect.height + 'px';
+
+                x += event.deltaRect.left;
+                y += event.deltaRect.top;
+
+                target.style.webkitTransform = target.style.transform =
+                    'translate(' + x + 'px,' + y + 'px)';
+
+                target.setAttribute('data-x', x);
+                target.setAttribute('data-y', y);
+            });
+
+        function toggleCalendar() {
+            var calendarIframe = document.getElementById('googleCalendar');
+            calendarIframe.style.display = calendarIframe.style.display === 'none' ? 'block' : 'none';
+        }
+
+        function addHomework() {
+            var homeworkInput = document.getElementById('homework-input');
+            var dateInput = document.getElementById('date-input');
+            var priorityInput = document.getElementById('priority-input');
+            var homeworkList = document.getElementById('homework-list');
+
+            var homeworkItem = document.createElement('li');
+            homeworkItem.textContent = `${homeworkInput.value} - ${dateInput.value} (Priority: ${priorityInput.value})`;
+            homeworkList.appendChild(homeworkItem);
+
+            homeworkInput.value = '';
+            dateInput.value = '';
+            priorityInput.value = 'low';
+        }
+    </script>
+</body>
+
+</html>
