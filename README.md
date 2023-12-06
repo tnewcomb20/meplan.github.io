@@ -612,11 +612,11 @@ Satisfaction: 3.5/5
 
 **Comments:**
 
-Found the Google Calendar integration seamless and time-saving.
+also have truoble syncing Gooogle Calendar.
 
 Recommended the addition of a progress tracker for ongoing assignments.
 
-Satisfaction: 4.5/5
+Satisfaction: 3/5
 
 
 
