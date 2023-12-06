@@ -612,7 +612,7 @@ Satisfaction: 3.5/5
 
 **Comments:**
 
-also have truoble syncing Gooogle Calendar.
+also have trouble syncing to Gooogle Calendar.
 
 Recommended the addition of a progress tracker for ongoing assignments.
 
