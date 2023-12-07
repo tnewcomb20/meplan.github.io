@@ -632,5 +632,6 @@ User suggestions highlight the potential for additional features, such as remind
 
 In conclusion, our study underscores the importance of simplicity and functionality in a homework tracker web app. While users generally find the priority setting and quick notes features beneficial, addressing issues with Google Calendar integration and considering user suggestions for additional features can further improve the app's utility. These insights inform future developments to better meet the needs of students managing their academic workload.
 
-
+### Group Evaluation 
+<img width="680" alt="Screen Shot 2023-12-06 at 4 11 53 PM" src="https://github.com/tnewcomb20/meplan.github.io/assets/97752648/8d7c1b04-a665-4185-9975-046a5b63e4f3">
 
